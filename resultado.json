@@ -1,0 +1,30 @@
+[
+  {
+    "input": "Lxmark MS317",
+    "suggestedProduct": "Lexmark MS317dn"
+  },
+  {
+    "input": "Oki Data MC36",
+    "suggestedProduct": "Oki Data MC363dn"
+  },
+  {
+    "input": "Lexark CX517",
+    "suggestedProduct": "Lexmark CX517de"
+  },
+  {
+    "input": "Brother L2540D",
+    "suggestedProduct": "Brother DCP-L2540DW"
+  },
+  {
+    "input": "WorkCentr 6515",
+    "suggestedProduct": "Xerox WorkCentre 6515"
+  },
+  {
+    "input": "Xerox WorkCentre 6515\"",
+    "suggestedProduct": "Xerox WorkCentre 6515"
+  },
+  {
+    "input": "WorkCentre 6515 s",
+    "suggestedProduct": "Xerox WorkCentre 6515"
+  }
+]
