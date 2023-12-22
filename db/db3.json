@@ -1,0 +1,5901 @@
+[
+  {
+    "marca": "Canon",
+    "aliases": ["Canon", "Cano", "Ca", "Can"],
+    "modelos": [
+      {
+        "nombre": "imagePRESS C1+II",
+        "aliases": ["IP C1", "Canon c1+II"]
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE C9270 PRO"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE C9075S PRO"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE C9075 PRO"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE C9065S PRO"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE C9065 PRO"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE C7270"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE C7260"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE C7065"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE C7055"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE C5255"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE C5250"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE C5240"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE C5235"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE C5051"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE C5045"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE C5035"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE C5030"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE C2030"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE 8295"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE 8285"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE 8205"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE C9280 PRO"
+      },
+      {
+        "nombre": "imageRUNNER Pro 125VP"
+      },
+      {
+        "nombre": "imageRUNNER Pro 150VP"
+      },
+      {
+        "nombre": "imageRUNNER Pro 7110VP"
+      },
+      {
+        "nombre": "WG7240"
+      },
+      {
+        "nombre": "WG7250"
+      },
+      {
+        "nombre": "WG7250F"
+      },
+      {
+        "nombre": "WG7250Z"
+      },
+      {
+        "nombre": "VarioPrint i300+"
+      },
+      {
+        "nombre": "VarioPrint i200+"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE C475iFZ III"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE C475iF III"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE 8585i III"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE 715iFZ III"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE 8105"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE 715iF III"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE 615iF III"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE 525iFZ III"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE 525iF III"
+      },
+      {
+        "nombre": "imagePRESS Lite C165"
+      },
+      {
+        "nombre": "imagePRESS C910"
+      },
+      {
+        "nombre": "imagePRESS C810"
+      },
+      {
+        "nombre": "imagePRESS C710CA"
+      },
+      {
+        "nombre": "imagePRESS C710"
+      },
+      {
+        "nombre": "imageRUNNER Pro 7138VP"
+      },
+      {
+        "nombre": "imageRUNNER Pro 7125VP"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE 615iFZ III"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE 8095"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE 8085"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE 6275"
+      },
+      {
+        "nombre": "imageRUNNER 3045"
+      },
+      {
+        "nombre": "imageRUNNER 3035"
+      },
+      {
+        "nombre": "imageRUNNER 3030"
+      },
+      {
+        "nombre": "imageRUNNER 3025"
+      },
+      {
+        "nombre": "imageRUNNER 105+"
+      },
+      {
+        "nombre": "imagePRESS C7010VPS"
+      },
+      {
+        "nombre": "imagePRESS C7010VP"
+      },
+      {
+        "nombre": "imagePRESS C7000VP"
+      },
+      {
+        "nombre": "imagePRESS C6010VPS"
+      },
+      {
+        "nombre": "imagePRESS C6010VP"
+      },
+      {
+        "nombre": "imageRUNNER 3225"
+      },
+      {
+        "nombre": "imagePRESS C6000VP"
+      },
+      {
+        "nombre": "imagePRESS C1"
+      },
+      {
+        "nombre": "imagePRESS 1135P"
+      },
+      {
+        "nombre": "imagePRESS 1135+"
+      },
+      {
+        "nombre": "imagePRESS 1125P"
+      },
+      {
+        "nombre": "imagePRESS 1125+"
+      },
+      {
+        "nombre": "imagePRESS 1110S+"
+      },
+      {
+        "nombre": "imagePRESS 1110S"
+      },
+      {
+        "nombre": "imagePRESS 1110P"
+      },
+      {
+        "nombre": "imagePRESS 1110+"
+      },
+      {
+        "nombre": "Color imageRUNNER C4580"
+      },
+      {
+        "nombre": "imagePRESS C1+"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE DX C3730i"
+      },
+      {
+        "nombre": "imageRUNNER 3230"
+      },
+      {
+        "nombre": "imageRUNNER 3245"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE 6265"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE 6255"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE 6075"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE 6065"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE 6055"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE 4051"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE 4045"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE 4035"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE 4025"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE 400iF"
+      },
+      {
+        "nombre": "imageRUNNER 3235"
+      },
+      {
+        "nombre": "imageRUNNER 9070"
+      },
+      {
+        "nombre": "imageRUNNER 7105"
+      },
+      {
+        "nombre": "imageRUNNER 7095"
+      },
+      {
+        "nombre": "imageRUNNER 7086"
+      },
+      {
+        "nombre": "imageRUNNER 6570"
+      },
+      {
+        "nombre": "imageRUNNER 5570"
+      },
+      {
+        "nombre": "imageRUNNER 5075"
+      },
+      {
+        "nombre": "imageRUNNER 5070"
+      },
+      {
+        "nombre": "imageRUNNER 5065"
+      },
+      {
+        "nombre": "imageRUNNER 5055"
+      },
+      {
+        "nombre": "imageRUNNER 5050"
+      },
+      {
+        "nombre": "imageRUNNER 8070"
+      },
+      {
+        "nombre": "Color imageRUNNER C3380"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE DX 4725i"
+      },
+      {
+        "nombre": "Color imageRUNNER C2550"
+      },
+      {
+        "nombre": "imagePRESS Lite C270"
+      },
+      {
+        "nombre": "imagePRESS Lite C265"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE DX C3835i"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE DX C3830i"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE DX C3826i"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE DX C5850i"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE DX C478iF"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE DX C478iFZ"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE DX C568iF"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE DX C568iFZ"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE DX 6860i"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE DX 6870i"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE DX C5860i"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE DX C5840i"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE DX C5870i"
+      },
+      {
+        "nombre": "imagePRESS Lite C170"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE DX 527iFZ"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE DX 617iFZ"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE DX 717iFZ"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE DX 527iF"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE DX 617iF"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE DX 6855i"
+      },
+      {
+        "nombre": "PlotWave 345"
+      },
+      {
+        "nombre": "PlotWave 365"
+      },
+      {
+        "nombre": "imagePRESS V700"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE DX 6980i"
+      },
+      {
+        "nombre": "ImageRUNNER ADVANCE DX 4925i"
+      },
+      {
+        "nombre": "ImageRUNNER ADVANCE DX C3926i"
+      },
+      {
+        "nombre": "ImageRUNNER ADVANCE DX C3930i"
+      },
+      {
+        "nombre": "ImageRUNNER ADVANCE DX C3935i"
+      },
+      {
+        "nombre": "ImageRUNNER ADVANCE DX 8986i"
+      },
+      {
+        "nombre": "ImageRUNNER ADVANCE DX 8995i"
+      },
+      {
+        "nombre": "ImageRUNNER ADVANCE DX 8905i"
+      },
+      {
+        "nombre": "ImageRUNNER ADVANCE DX 4935i"
+      },
+      {
+        "nombre": "ImageRUNNER ADVANCE DX 4945i"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE DX 717iF"
+      },
+      {
+        "nombre": "ImageRUNNER ADVANCE DX C359iF"
+      },
+      {
+        "nombre": "varioPRINT 115 QUARTZ"
+      },
+      {
+        "nombre": "varioPRINT 130 QUARTZ"
+      },
+      {
+        "nombre": "varioPRINT 140 QUARTZ"
+      },
+      {
+        "nombre": "imagePRESS V1000"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE DX 4845i"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE DX 4835i"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE DX 4825i"
+      },
+      {
+        "nombre": "imagePRESS V1350"
+      },
+      {
+        "nombre": "imagePRESS V900"
+      },
+      {
+        "nombre": "imagePRESS V800"
+      },
+      {
+        "nombre": "ImageRUNNER ADVANCE DX C259iF"
+      },
+      {
+        "nombre": "PlotWave 3000"
+      },
+      {
+        "nombre": "PlotWave 3500"
+      },
+      {
+        "nombre": "PlotWave 5000"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE DX 6755i"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE DX 6000i"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE DX 4745i"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE DX 4735i"
+      },
+      {
+        "nombre": "imageRUNNER 5020"
+      },
+      {
+        "nombre": "imageRUNNER 2545"
+      },
+      {
+        "nombre": "imageRUNNER 2535"
+      },
+      {
+        "nombre": "imageRUNNER 2530"
+      },
+      {
+        "nombre": "imageRUNNER 2525"
+      },
+      {
+        "nombre": "imageRUNNER 2030i"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE DX 6765i"
+      },
+      {
+        "nombre": "imageRUNNER 2025i"
+      },
+      {
+        "nombre": "imageRUNNER 2020"
+      },
+      {
+        "nombre": "imageRUNNER 2018"
+      },
+      {
+        "nombre": "imageRUNNER 2016"
+      },
+      {
+        "nombre": "Color imageRUNNER C5185"
+      },
+      {
+        "nombre": "Color imageRUNNER C5180"
+      },
+      {
+        "nombre": "Color imageRUNNER C4080"
+      },
+      {
+        "nombre": "Color imageRUNNER C3480"
+      },
+      {
+        "nombre": "Color imageRUNNER C3220"
+      },
+      {
+        "nombre": "Color imageRUNNER C2880"
+      },
+      {
+        "nombre": "Color imageRUNNER C2620"
+      },
+      {
+        "nombre": "imageRUNNER 2022"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE DX 4751i"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE DX 6780i"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE DX 8786i"
+      },
+      {
+        "nombre": "PlotWave 5500"
+      },
+      {
+        "nombre": "PlotWave 7500"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE DX C477iF"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE DX C477iFZ"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE DX C5735i"
+      },
+      {
+        "nombre": "imagePRESS C10010VP"
+      },
+      {
+        "nombre": "imagePRESS C9010VP"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE 715iFZ II"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE 715iF II"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE 525iF II"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE DX 8705i"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE 525iFZ II"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE DX C7780i"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE DX C7770i"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE DX C7765i"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE DX C5760i"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE DX C5750i"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE DX C5740i"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE DX C3725i"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE DX C357iF"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE DX C257iF"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE DX 8795i"
+      },
+      {
+        "nombre": "imageRUNNER Pro 7150VP"
+      },
+      {
+        "nombre": "Color imageRUNNER C3080"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE C2020"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE C7570i"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE 6555i III"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE 6565i"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE 6565i II"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE 6565i III"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE 6575i"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE 6575i II"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE 6575i III"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE 8505i"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE 8505i II"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE 8585i"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE 8585i II"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE 8595i"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE 8595i II"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE 8595i III"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE C2225"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE C2230"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE C250iF"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE 6555i II"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE 6555i"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE 500iF"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE 4551i III"
+      },
+      {
+        "nombre": "imagePRESS C800"
+      },
+      {
+        "nombre": "imagePRESS C8000VP"
+      },
+      {
+        "nombre": "imagePRESS C850"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE 4225"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE 4235"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE 4245"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE 4251"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE 4525i"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE C255iF"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE 4525i II"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE 4535i"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE 4535i II"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE 4535i III"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE 4545i"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE 4545i II"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE 4545i III"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE 4551i"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE 4551i II"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE 4525i III"
+      },
+      {
+        "nombre": "imagePRESS C750"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE C256iF II"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE C3325i"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE C5560i"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE C5560i II"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE C5560i III"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE C7565i"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE C7565i II"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE C7565i III"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE C7570i II"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE C7570i III"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE C7580i"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE C7580i II"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE C7580i III"
+      },
+      {
+        "nombre": "varioPRINT 110"
+      },
+      {
+        "nombre": "varioPRINT 115"
+      },
+      {
+        "nombre": "varioPRINT 120"
+      },
+      {
+        "nombre": "varioPRINT 130"
+      },
+      {
+        "nombre": "varioPRINT 135"
+      },
+      {
+        "nombre": "varioPRINT 140"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE C5550i III"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE C5550i II"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE C5550i"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE C5540i III"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE C3330i"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE C350iF"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE C3525i"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE C3525i II"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE C3525i III"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE C3530i"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE C3530i II"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE C3530i III"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE C256iF III"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE C355iF"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE C356iF III"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE C5235A"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE C5240A"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE C5535i"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE C5535i II"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE C5535i III"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE C5540i"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE C5540i II"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE C356iF II"
+      },
+      {
+        "nombre": "imagePRESS C7011VPS"
+      },
+      {
+        "nombre": "imageRUNNER ADVANCE 8505i III"
+      },
+      {
+        "nombre": "imagePRESS C10000VP"
+      },
+      {
+        "nombre": "imagePRESS C60"
+      },
+      {
+        "nombre": "imagePRESS C6010S"
+      },
+      {
+        "nombre": "imagePRESS C6011"
+      },
+      {
+        "nombre": "imagePRESS C6011S"
+      },
+      {
+        "nombre": "imagePRESS C6010"
+      },
+      {
+        "nombre": "imagePRESS C6011VPS"
+      },
+      {
+        "nombre": "imagePRESS C6011VP"
+      },
+      {
+        "nombre": "imagePRESS C700"
+      },
+      {
+        "nombre": "imagePRESS C650"
+      },
+      {
+        "nombre": "imagePRESS C7011VP"
+      },
+      {
+        "nombre": "imagePRESS C65"
+      }
+    ]
+  },
+  {
+    "marca": "Copystar",
+    "aliases": ["Copystar", "Cop", "Cp"],
+    "modelos": [
+      {
+        "nombre": "CS 7353ci"
+      },
+      {
+        "nombre": "CS 500 Impressions2i"
+      },
+      {
+        "nombre": "CS 7002i"
+      },
+      {
+        "nombre": "CS 4501i"
+      },
+      {
+        "nombre": "CS 4500 Impressionsi"
+      },
+      {
+        "nombre": "CS 7052ci"
+      },
+      {
+        "nombre": "CS 308ci"
+      },
+      {
+        "nombre": "CS 358ci"
+      },
+      {
+        "nombre": "CS 7003i"
+      },
+      {
+        "nombre": "CS 4551ci"
+      },
+      {
+        "nombre": "CS 4550ci"
+      },
+      {
+        "nombre": "CS 8003i"
+      },
+      {
+        "nombre": "CS 4053ci"
+      },
+      {
+        "nombre": "CS 2552ci"
+      },
+      {
+        "nombre": "CS 2551ci"
+      },
+      {
+        "nombre": "CS 408ci"
+      },
+      {
+        "nombre": "CS 2550ci"
+      },
+      {
+        "nombre": "CS 508ci"
+      },
+      {
+        "nombre": "CS 3010i"
+      },
+      {
+        "nombre": "CS 3011i"
+      },
+      {
+        "nombre": "CS 3050ci"
+      },
+      {
+        "nombre": "CS 3051ci"
+      },
+      {
+        "nombre": "CS 406ci"
+      },
+      {
+        "nombre": "CS 9002i"
+      },
+      {
+        "nombre": "CS 9003i"
+      },
+      {
+        "nombre": "CS 4012i"
+      },
+      {
+        "nombre": "CS 4052ci"
+      },
+      {
+        "nombre": "CS 8002i"
+      },
+      {
+        "nombre": "CS 8001i"
+      },
+      {
+        "nombre": "CS 7551ci"
+      },
+      {
+        "nombre": "CS 8353ci"
+      },
+      {
+        "nombre": "CS 3554ci"
+      },
+      {
+        "nombre": "CS 2554ci"
+      },
+      {
+        "nombre": "CS 8052ci"
+      },
+      {
+        "nombre": "CS 2553ci"
+      },
+      {
+        "nombre": "CS 7054ci"
+      },
+      {
+        "nombre": "CS 5054ci"
+      },
+      {
+        "nombre": "CS 4002i"
+      },
+      {
+        "nombre": "CS 356ci"
+      },
+      {
+        "nombre": "CS 6054ci"
+      },
+      {
+        "nombre": "CS 3552ci"
+      },
+      {
+        "nombre": "CS 3551ci"
+      },
+      {
+        "nombre": "CS 3550ci"
+      },
+      {
+        "nombre": "CS 6501i"
+      },
+      {
+        "nombre": "CS 4003i"
+      },
+      {
+        "nombre": "CS 3511i"
+      },
+      {
+        "nombre": "CS 3501i"
+      },
+      {
+        "nombre": "CS 3500 Impressionsi"
+      },
+      {
+        "nombre": "CS 6551ci"
+      },
+      {
+        "nombre": "CS 3253ci"
+      },
+      {
+        "nombre": "CS 3252ci"
+      },
+      {
+        "nombre": "CS 3212i"
+      },
+      {
+        "nombre": "CS 307ci"
+      },
+      {
+        "nombre": "CS 3510i"
+      },
+      {
+        "nombre": "CS 306ci"
+      },
+      {
+        "nombre": "CS 3553ci"
+      },
+      {
+        "nombre": "CS 6053ci"
+      },
+      {
+        "nombre": "CS 4054ci"
+      },
+      {
+        "nombre": "CS 7004i"
+      },
+      {
+        "nombre": "CS 6004i"
+      },
+      {
+        "nombre": "CS 500 Impressions4i"
+      },
+      {
+        "nombre": "CS 6500 Impressionsi"
+      },
+      {
+        "nombre": "CS 500 Impressions3i"
+      },
+      {
+        "nombre": "CS 5052ci"
+      },
+      {
+        "nombre": "CS 5053ci"
+      },
+      {
+        "nombre": "CS 4004i"
+      },
+      {
+        "nombre": "CS 5501i"
+      },
+      {
+        "nombre": "CS 5500 Impressionsi"
+      },
+      {
+        "nombre": "CS MZ3200i"
+      },
+      {
+        "nombre": "CS MZ4000i"
+      },
+      {
+        "nombre": "CS 6003i"
+      },
+      {
+        "nombre": "CS 6052ci"
+      },
+      {
+        "nombre": "CS 6002i"
+      },
+      {
+        "nombre": "CS 5551ci"
+      },
+      {
+        "nombre": "CS 5550ci"
+      },
+      {
+        "nombre": "CS 300i x"
+      }
+    ]
+  },
+  {
+    "marca": "Hp",
+    "aliases": ["Hp", "Hewlett Packard", "Hewlett Pk", "H-P"],
+    "modelos": [
+      {
+        "nombre": "PageWide XL 4600 MFP"
+      },
+      {
+        "nombre": "LaserJet Enterprise MFP M636fh"
+      },
+      {
+        "nombre": "LaserJet Enterprise MFP M634z"
+      },
+      {
+        "nombre": "Color LaserJet Enterprise Flow MFP M776zs"
+      },
+      {
+        "nombre": "LaserJet Enterprise Flow MFP M635z"
+      },
+      {
+        "nombre": "Indigo 7K"
+      },
+      {
+        "nombre": "Indigo 7eco"
+      },
+      {
+        "nombre": "Indigo 15K"
+      },
+      {
+        "nombre": "Indigo 100K"
+      },
+      {
+        "nombre": "Color LaserJet Enterprise Flow MFP M776z"
+      },
+      {
+        "nombre": "PageWide XL 4100 Printer"
+      },
+      {
+        "nombre": "Indigo 7500 Impressions "
+      },
+      {
+        "nombre": "PageWide XL 4000 Printer"
+      },
+      {
+        "nombre": "PageWide XL 4000 MFP"
+      },
+      {
+        "nombre": "PageWide XL 6000 Printer with High-capacity Stacker"
+      },
+      {
+        "nombre": "Color LaserJet Enterprise M856dn"
+      },
+      {
+        "nombre": "PageWide XL 5100 Printer with Top Stacker"
+      },
+      {
+        "nombre": "PageWide XL 5100 Printer with High-capacity Stacker"
+      },
+      {
+        "nombre": "PageWide XL 5100 MFP with Top Stacker"
+      },
+      {
+        "nombre": "PageWide XL 5100 MFP with High-capacity Stacker"
+      },
+      {
+        "nombre": "PageWide XL 4600 Printer"
+      },
+      {
+        "nombre": "PageWide XL Pro 5200 with Pro Stacker"
+      },
+      {
+        "nombre": "PageWide XL Pro 8200 with Pro Stacker"
+      },
+      {
+        "nombre": "PageWide XL Pro 10000 with Pro Stacker"
+      },
+      {
+        "nombre": "PageWide XL 4200 Printer with Top Stacker"
+      },
+      {
+        "nombre": "PageWide XL 4700 MFP with Top Stacker"
+      },
+      {
+        "nombre": "PageWide XL 5200 MFP with High-capacity Stacker"
+      },
+      {
+        "nombre": "PageWide XL 3900 MFP"
+      },
+      {
+        "nombre": "PageWide XL 4100 MFP"
+      },
+      {
+        "nombre": "PageWide XL 4500 MFP"
+      },
+      {
+        "nombre": "PageWide XL 4500 Printer"
+      },
+      {
+        "nombre": "PageWide XL 6000 MFP with High-capacity Stacker"
+      },
+      {
+        "nombre": "PageWide XL 5000 MFP"
+      },
+      {
+        "nombre": "Indigo 3500 Impressions "
+      },
+      {
+        "nombre": "Color LaserJet Enterprise M856x"
+      },
+      {
+        "nombre": "Indigo 3550 "
+      },
+      {
+        "nombre": "PageWide XL 5000 BluePrinter"
+      },
+      {
+        "nombre": "Indigo 5500 Impressions "
+      },
+      {
+        "nombre": "PageWide XL 4200 MPF with Top Stacker"
+      },
+      {
+        "nombre": "PageWide XL 500 Impressions0 MFP"
+      },
+      {
+        "nombre": "PageWide XL 8200"
+      },
+      {
+        "nombre": "PageWide XL 4700"
+      },
+      {
+        "nombre": "PageWide XL 5200"
+      },
+      {
+        "nombre": "PageWide XL 8000 Printer"
+      },
+      {
+        "nombre": "PageWide XL 8000 BluePrinter"
+      },
+      {
+        "nombre": "PageWide XL 5000 Printer"
+      },
+      {
+        "nombre": "PageWide XL 3920"
+      },
+      {
+        "nombre": "Color LaserJet Enterprise MFP M776dn"
+      }
+    ]
+  },
+  {
+    "marca": "Kip",
+    "aliases": ["Kip", "Kp"],
+    "modelos": [
+      {
+        "nombre": "Kip 8120"
+      },
+      {
+        "nombre": "Kip 8160"
+      },
+      {
+        "nombre": "KIP 850"
+      },
+      {
+        "nombre": "KIP 860",
+        "aliases": ["860"]
+      },
+      {
+        "nombre": "Kip 8080"
+      },
+      {
+        "nombre": "Kip 8050"
+      },
+      {
+        "nombre": "KIP 880"
+      },
+      {
+        "nombre": "KIP 870"
+      },
+      {
+        "nombre": "KIP 890"
+      },
+      {
+        "nombre": "Kip 9000"
+      },
+      {
+        "nombre": "Kip 9200"
+      },
+      {
+        "nombre": "KIP 940"
+      },
+      {
+        "nombre": "Kip color 80"
+      },
+      {
+        "nombre": "Kip C7800"
+      },
+      {
+        "nombre": "Kip 9900"
+      },
+      {
+        "nombre": "Kip 8000"
+      },
+      {
+        "nombre": "KIP 7990"
+      },
+      {
+        "nombre": "Kip 7100"
+      },
+      {
+        "nombre": "KIP 7970"
+      },
+      {
+        "nombre": "Kip 7000"
+      },
+      {
+        "nombre": "KIP 7980"
+      },
+      {
+        "nombre": "KIP 7170"
+      },
+      {
+        "nombre": "Kip 7200"
+      },
+      {
+        "nombre": "Kip 5200"
+      },
+      {
+        "nombre": "Kip 500 Impressions0"
+      },
+      {
+        "nombre": "Kip 3102"
+      },
+      {
+        "nombre": "Kip 3101"
+      },
+      {
+        "nombre": "Kip 3100"
+      },
+      {
+        "nombre": "Kip 3002"
+      },
+      {
+        "nombre": "Kip 700"
+      },
+      {
+        "nombre": "Kip 3000"
+      },
+      {
+        "nombre": "Kip 3001"
+      },
+      {
+        "nombre": "7974"
+      },
+      {
+        "nombre": "7972"
+      },
+      {
+        "nombre": "7171"
+      },
+      {
+        "nombre": "660"
+      },
+      {
+        "nombre": "650"
+      },
+      {
+        "nombre": "KIP 7570"
+      },
+      {
+        "nombre": "KIP 7590"
+      },
+      {
+        "nombre": "KIP 770"
+      },
+      {
+        "nombre": "Kip 7700"
+      },
+      {
+        "nombre": "KIP 7770"
+      },
+      {
+        "nombre": "Kip 7900"
+      },
+      {
+        "nombre": "970"
+      },
+      {
+        "nombre": "Kip 6000"
+      }
+    ]
+  },
+  {
+    "marca": "Kodak",
+    "aliases": ["Kodak", "Kod", "Kk"],
+    "modelos": [
+      {
+        "nombre": "Digimaster 9110"
+      },
+      {
+        "nombre": "Digimaster 9150i"
+      },
+      {
+        "nombre": "Digimaster E125"
+      },
+      {
+        "nombre": "Digimaster EX110"
+      },
+      {
+        "nombre": "Digimaster EX125"
+      },
+      {
+        "nombre": "Digimaster EX138"
+      },
+      {
+        "nombre": "Digimaster EX150"
+      },
+      {
+        "nombre": "Digimaster EX300"
+      },
+      {
+        "nombre": "NEXFINITY Digital Press"
+      },
+      {
+        "nombre": "Nexpress 2100"
+      },
+      {
+        "nombre": "Nexpress 2100 Plus"
+      },
+      {
+        "nombre": "NexPress SE2500 Impressions "
+      },
+      {
+        "nombre": "NexPress SE3000 "
+      },
+      {
+        "nombre": "Digimaster E150"
+      }
+    ]
+  },
+  {
+    "marca": "Konica minolta",
+    "aliases": ["Konica Minolta", "KM", "Km", "Kon"],
+    "modelos": [
+      {
+        "nombre": "bizhub PRO 1051"
+      },
+      {
+        "nombre": "bizhub PRESS C7000"
+      },
+      {
+        "nombre": "bizhub PRESS C8000"
+      },
+      {
+        "nombre": "bizhub PRO 1050"
+      },
+      {
+        "nombre": "bizhub PRO 1200"
+      },
+      {
+        "nombre": "bizhub PRESS C6000 PRO"
+      },
+      {
+        "nombre": "bizhub PRO 951"
+      },
+      {
+        "nombre": "bizhub PRO C5500 Impressions"
+      },
+      {
+        "nombre": "bizhub PRO C5501"
+      },
+      {
+        "nombre": "bizhub PRO C6000L"
+      },
+      {
+        "nombre": "bizhub PRO C6500 Impressions"
+      },
+      {
+        "nombre": "bizhub PRO 950"
+      },
+      {
+        "nombre": "bizhub PRESS C70 hc"
+      },
+      {
+        "nombre": "bizhub C220"
+      },
+      {
+        "nombre": "bizhub PRESS 1250"
+      },
+      {
+        "nombre": "AccurioJet KM-1"
+      },
+      {
+        "nombre": "bizhub C300"
+      },
+      {
+        "nombre": "bizhub C284e"
+      },
+      {
+        "nombre": "bizhub C284"
+      },
+      {
+        "nombre": "bizhub C280"
+      },
+      {
+        "nombre": "bizhub C224e"
+      },
+      {
+        "nombre": "bizhub C224"
+      },
+      {
+        "nombre": "bizhub 751"
+      },
+      {
+        "nombre": "AccurioPress 6120"
+      },
+      {
+        "nombre": "bizhub 652"
+      },
+      {
+        "nombre": "bizhub 552"
+      },
+      {
+        "nombre": "bizhub 501"
+      },
+      {
+        "nombre": "bizhub 423"
+      },
+      {
+        "nombre": "bizhub 363"
+      },
+      {
+        "nombre": "bizhub 362"
+      },
+      {
+        "nombre": "bizhub 36"
+      },
+      {
+        "nombre": "bizhub 283"
+      },
+      {
+        "nombre": "bizhub PRO C6501"
+      },
+      {
+        "nombre": "bizhub 601"
+      },
+      {
+        "nombre": "AccurioPress 6136"
+      },
+      {
+        "nombre": "AccurioPress 6136P"
+      },
+      {
+        "nombre": "AccurioPress C2060"
+      },
+      {
+        "nombre": "bizhub PRESS 1052"
+      },
+      {
+        "nombre": "bizhub C754"
+      },
+      {
+        "nombre": "bizhub C654"
+      },
+      {
+        "nombre": "bizhub C652"
+      },
+      {
+        "nombre": "bizhub C554e"
+      },
+      {
+        "nombre": "bizhub C554"
+      },
+      {
+        "nombre": "bizhub C552"
+      },
+      {
+        "nombre": "bizhub C550"
+      },
+      {
+        "nombre": "bizhub C454e"
+      },
+      {
+        "nombre": "bizhub C454"
+      },
+      {
+        "nombre": "bizhub C452"
+      },
+      {
+        "nombre": "bizhub C450"
+      },
+      {
+        "nombre": "bizhub C364e"
+      },
+      {
+        "nombre": "bizhub C364"
+      },
+      {
+        "nombre": "bizhub C360"
+      },
+      {
+        "nombre": "AccurioPress C3080"
+      },
+      {
+        "nombre": "AccurioPress C3070"
+      },
+      {
+        "nombre": "AccurioPress C2070P"
+      },
+      {
+        "nombre": "AccurioPress C2070"
+      },
+      {
+        "nombre": "bizhub PRESS 1250P"
+      },
+      {
+        "nombre": "AccurioPress C6100"
+      },
+      {
+        "nombre": "AccurioPrint C2060L Fiery"
+      },
+      {
+        "nombre": "bizhub 650i"
+      },
+      {
+        "nombre": "bizhub PRO C1060L"
+      },
+      {
+        "nombre": "bizhub PRO 1100"
+      },
+      {
+        "nombre": "bizhub PRESS C71hc"
+      },
+      {
+        "nombre": "bizhub PRESS C1100"
+      },
+      {
+        "nombre": "bizhub PRESS C1085"
+      },
+      {
+        "nombre": "bizhub PRESS C1070P"
+      },
+      {
+        "nombre": "bizhub PRESS C1070"
+      },
+      {
+        "nombre": "bizhub PRESS C1060"
+      },
+      {
+        "nombre": "bizhub PRESS 2250P"
+      },
+      {
+        "nombre": "bizhub C759"
+      },
+      {
+        "nombre": "bizhub C754e"
+      },
+      {
+        "nombre": "bizhub C659"
+      },
+      {
+        "nombre": "bizhub C658"
+      },
+      {
+        "nombre": "bizhub C654e"
+      },
+      {
+        "nombre": "bizhub C558"
+      },
+      {
+        "nombre": "bizhub 950i"
+      },
+      {
+        "nombre": "bizhub C458"
+      },
+      {
+        "nombre": "bizhub 850i"
+      },
+      {
+        "nombre": "AccurioPress 6272P"
+      },
+      {
+        "nombre": "bizhub PRO 920"
+      },
+      {
+        "nombre": "bizhub 750i"
+      },
+      {
+        "nombre": "bizhub 550i"
+      },
+      {
+        "nombre": "bizhub 360i"
+      },
+      {
+        "nombre": "bizhub 450i"
+      },
+      {
+        "nombre": "bizhub 300i"
+      },
+      {
+        "nombre": "AccurioPrint C4065"
+      },
+      {
+        "nombre": "AccurioPress C4080"
+      },
+      {
+        "nombre": "AccurioPress C4070"
+      },
+      {
+        "nombre": "bizhub 4750i"
+      },
+      {
+        "nombre": "bizhub 4700i"
+      },
+      {
+        "nombre": "bizhub 4050i"
+      },
+      {
+        "nombre": "AccurioPress C7090"
+      },
+      {
+        "nombre": "AccurioPress C7100"
+      },
+      {
+        "nombre": "AccurioPrint 2100"
+      },
+      {
+        "nombre": "bizhub c450i"
+      },
+      {
+        "nombre": "bizhub C3851FS"
+      },
+      {
+        "nombre": "bizhub C3850FS"
+      },
+      {
+        "nombre": "bizhub C3850"
+      },
+      {
+        "nombre": "bizhub 458"
+      },
+      {
+        "nombre": "bizhub 454e"
+      },
+      {
+        "nombre": "bizhub 4050"
+      },
+      {
+        "nombre": "bizhub 368e"
+      },
+      {
+        "nombre": "bizhub 368"
+      },
+      {
+        "nombre": "bizhub 364e"
+      },
+      {
+        "nombre": "bizhub 308e"
+      },
+      {
+        "nombre": "bizhub 308"
+      },
+      {
+        "nombre": "bizhub 287"
+      },
+      {
+        "nombre": "bizhub 284e"
+      },
+      {
+        "nombre": "bizhub 227"
+      },
+      {
+        "nombre": "bizhub 224e"
+      },
+      {
+        "nombre": "bizhub 223"
+      },
+      {
+        "nombre": "AccurioPrint C3070L"
+      },
+      {
+        "nombre": "AccurioPrint C2060L IC-603A"
+      },
+      {
+        "nombre": "bizhub 458e"
+      },
+      {
+        "nombre": "bizhub 4750"
+      },
+      {
+        "nombre": "bizhub 554e"
+      },
+      {
+        "nombre": "bizhub 558"
+      },
+      {
+        "nombre": "bizhub C368"
+      },
+      {
+        "nombre": "bizhub C3351"
+      },
+      {
+        "nombre": "bizhub C3350"
+      },
+      {
+        "nombre": "bizhub C3110"
+      },
+      {
+        "nombre": "bizhub C308"
+      },
+      {
+        "nombre": "bizhub C287"
+      },
+      {
+        "nombre": "bizhub C258"
+      },
+      {
+        "nombre": "bizhub C750i"
+      },
+      {
+        "nombre": "bizhub C227"
+      },
+      {
+        "nombre": "bizhub 808"
+      },
+      {
+        "nombre": "bizhub 754e"
+      },
+      {
+        "nombre": "bizhub 754"
+      },
+      {
+        "nombre": "bizhub 658e"
+      },
+      {
+        "nombre": "bizhub 654e"
+      },
+      {
+        "nombre": "bizhub 654"
+      },
+      {
+        "nombre": "bizhub 558e"
+      },
+      {
+        "nombre": "bizhub 958"
+      },
+      {
+        "nombre": "bizhub C650"
+      },
+      {
+        "nombre": "AccurioPress C6085"
+      },
+      {
+        "nombre": "bizhub C352"
+      },
+      {
+        "nombre": "bizhub C3350i"
+      },
+      {
+        "nombre": "AccurioPress 6136P MICR"
+      },
+      {
+        "nombre": "AccurioJet KM-1e"
+      },
+      {
+        "nombre": "AccurioPress C3080P"
+      },
+      {
+        "nombre": "bizhub C650i"
+      },
+      {
+        "nombre": "bizhub C550i"
+      },
+      {
+        "nombre": "bizhub PRESS 1250P MICR"
+      },
+      {
+        "nombre": "bizhub C353"
+      },
+      {
+        "nombre": "bizhub 215"
+      },
+      {
+        "nombre": "AccurioPress C12000"
+      },
+      {
+        "nombre": "AccurioPress C83hc"
+      },
+      {
+        "nombre": "bizhub 5020i"
+      },
+      {
+        "nombre": "bizhub C250i",
+        "aliases": ["BIZC250I"]
+      },
+      {
+        "nombre": "bizhub C300i"
+      },
+      {
+        "nombre": "bizhub C3300i"
+      },
+      {
+        "nombre": "bizhub C4050i"
+      },
+      {
+        "nombre": "bizhub C4000i"
+      },
+      {
+        "nombre": "bizhub C360i"
+      },
+      {
+        "nombre": "AccurioPress C14000"
+      },
+      {
+        "nombre": "bizhub 222"
+      },
+      {
+        "nombre": "bizhub C3320i"
+      },
+      {
+        "nombre": "bizhub 282"
+      },
+      {
+        "nombre": "bizhub C350"
+      },
+      {
+        "nombre": "bizhub C253"
+      },
+      {
+        "nombre": "bizhub C203"
+      },
+      {
+        "nombre": "bizhub C200"
+      },
+      {
+        "nombre": "bizhub 600"
+      },
+      {
+        "nombre": "bizhub 500 Impressions"
+      },
+      {
+        "nombre": "bizhub 250"
+      },
+      {
+        "nombre": "bizhub 420"
+      },
+      {
+        "nombre": "bizhub 361"
+      },
+      {
+        "nombre": "bizhub 421"
+      },
+      {
+        "nombre": "bizhub 350"
+      }
+    ]
+  },
+  {
+    "marca": "Kyocera",
+    "aliases": ["Kyocera", "Kyo", "Ky"],
+    "modelos": [
+      {
+        "nombre": "TASKalfa 3050ci"
+      },
+      {
+        "nombre": "TASKalfa 5500 Impressionsi"
+      },
+      {
+        "nombre": "TASKalfa 6550ci"
+      },
+      {
+        "nombre": "TASKalfa 650c"
+      },
+      {
+        "nombre": "TASKalfa 6500 Impressionsi"
+      },
+      {
+        "nombre": "TASKalfa 6500 Impressionsci"
+      },
+      {
+        "nombre": "TASKalfa 620"
+      },
+      {
+        "nombre": "TASKalfa 520i"
+      },
+      {
+        "nombre": "TASKalfa 5550ci"
+      },
+      {
+        "nombre": "TASKalfa 500 Impressionsci"
+      },
+      {
+        "nombre": "TASKalfa 8000i"
+      },
+      {
+        "nombre": "TASKalfa 4500 Impressionsi"
+      },
+      {
+        "nombre": "TASKalfa 820"
+      },
+      {
+        "nombre": "TASKalfa 181"
+      },
+      {
+        "nombre": "TASKalfa 250ci"
+      },
+      {
+        "nombre": "TASKalfa 255"
+      },
+      {
+        "nombre": "TASKalfa 255c"
+      },
+      {
+        "nombre": "TASKalfa 420i"
+      },
+      {
+        "nombre": "TASKalfa 3550ci"
+      },
+      {
+        "nombre": "TASKalfa 300ci"
+      },
+      {
+        "nombre": "TASKalfa 300i"
+      },
+      {
+        "nombre": "TASKalfa 305"
+      },
+      {
+        "nombre": "TASKalfa 550c"
+      },
+      {
+        "nombre": "TASKalfa 552ci"
+      },
+      {
+        "nombre": "TASKalfa 3500 Impressionsi"
+      },
+      {
+        "nombre": "TASKalfa 400ci"
+      },
+      {
+        "nombre": "TASKalfa 358ci"
+      },
+      {
+        "nombre": "ECOSYS M3860idnf"
+      },
+      {
+        "nombre": "TASKalfa 11100"
+      },
+      {
+        "nombre": "TASKalfa 13600"
+      },
+      {
+        "nombre": "TASKalfa 205c"
+      },
+      {
+        "nombre": "TASKalfa 221"
+      },
+      {
+        "nombre": "TASKalfa 9600"
+      },
+      {
+        "nombre": "TASKalfa 7550ci"
+      },
+      {
+        "nombre": "TASKalfa 3554ci"
+      },
+      {
+        "nombre": "TASKalfa 2554ci"
+      },
+      {
+        "nombre": "TASKalfa 7054ci"
+      },
+      {
+        "nombre": "TASKalfa 6054ci"
+      },
+      {
+        "nombre": "TASKalfa 5054ci"
+      },
+      {
+        "nombre": "TASKalfa 4054ci"
+      },
+      {
+        "nombre": "TASKalfa 7004i"
+      },
+      {
+        "nombre": "TASKalfa 6004i"
+      },
+      {
+        "nombre": "TASKalfa 4004i"
+      },
+      {
+        "nombre": "TASKalfa 500 Impressions4i"
+      },
+      {
+        "nombre": "TASKalfa MZ4000i"
+      },
+      {
+        "nombre": "ECOSYS P3145dn"
+      },
+      {
+        "nombre": "ECOSYS P3150dn"
+      },
+      {
+        "nombre": "ECOSYS P3155dn"
+      },
+      {
+        "nombre": "ECOSYS P3260dn"
+      },
+      {
+        "nombre": "TASKalfa 308ci"
+      },
+      {
+        "nombre": "TASKalfa 7003i"
+      },
+      {
+        "nombre": "ECOSYS M3860idn"
+      },
+      {
+        "nombre": "TASKalfa 7353ci"
+      },
+      {
+        "nombre": "TASKalfa 8353ci"
+      },
+      {
+        "nombre": "TASKalfa 9003i"
+      },
+      {
+        "nombre": "TASKalfa 408ci"
+      },
+      {
+        "nombre": "TASKalfa 508ci"
+      },
+      {
+        "nombre": "ECOSYS P4060dn"
+      },
+      {
+        "nombre": "TASKalfa MZ3200i"
+      },
+      {
+        "nombre": "TASKalfa 8003i"
+      },
+      {
+        "nombre": "TASKalfa 750c"
+      },
+      {
+        "nombre": "TASKalfa 4550ci"
+      },
+      {
+        "nombre": "TASKalfa 7551ci"
+      },
+      {
+        "nombre": "TASKalfa 4551ci"
+      },
+      {
+        "nombre": "TASKalfa 4501i"
+      },
+      {
+        "nombre": "TASKalfa 406ci"
+      },
+      {
+        "nombre": "TASKalfa 4053ci"
+      },
+      {
+        "nombre": "TASKalfa 4052ci"
+      },
+      {
+        "nombre": "TASKalfa 4012i"
+      },
+      {
+        "nombre": "TASKalfa 4820w"
+      },
+      {
+        "nombre": "TASKalfa 4003i"
+      },
+      {
+        "nombre": "TASKalfa 356ci"
+      },
+      {
+        "nombre": "TASKalfa 3553ci"
+      },
+      {
+        "nombre": "TASKalfa 3552ci"
+      },
+      {
+        "nombre": "TASKalfa 3551ci"
+      },
+      {
+        "nombre": "TASKalfa 3511i"
+      },
+      {
+        "nombre": "TASKalfa 3510i"
+      },
+      {
+        "nombre": "TASKalfa 4002i"
+      },
+      {
+        "nombre": "TASKalfa 3501i"
+      },
+      {
+        "nombre": "TASKalfa 500 Impressions2i"
+      },
+      {
+        "nombre": "TASKalfa 5052ci"
+      },
+      {
+        "nombre": "TASKalfa 9002i"
+      },
+      {
+        "nombre": "TASKalfa 8052ci"
+      },
+      {
+        "nombre": "TASKalfa 8002i"
+      },
+      {
+        "nombre": "TASKalfa 8001i"
+      },
+      {
+        "nombre": "TASKalfa 7052ci"
+      },
+      {
+        "nombre": "TASKalfa 7002i"
+      },
+      {
+        "nombre": "TASKalfa 500 Impressions3i"
+      },
+      {
+        "nombre": "TASKalfa 6551ci"
+      },
+      {
+        "nombre": "TASKalfa 6053ci"
+      },
+      {
+        "nombre": "TASKalfa 6052ci"
+      },
+      {
+        "nombre": "TASKalfa 6003i"
+      },
+      {
+        "nombre": "TASKalfa 6002i"
+      },
+      {
+        "nombre": "TASKalfa 5551ci"
+      },
+      {
+        "nombre": "TASKalfa 5501i"
+      },
+      {
+        "nombre": "TASKalfa 6501i"
+      },
+      {
+        "nombre": "TASKalfa 3253ci"
+      },
+      {
+        "nombre": "TASKalfa 5053ci"
+      },
+      {
+        "nombre": "TASKalfa 3212i"
+      },
+      {
+        "nombre": "TASKalfa 3252ci"
+      },
+      {
+        "nombre": "ECOSYS M8124cidn"
+      },
+      {
+        "nombre": "ECOSYS M4132idn"
+      },
+      {
+        "nombre": "ECOSYS P8060cdn"
+      },
+      {
+        "nombre": "KM 3650w"
+      },
+      {
+        "nombre": "KM 4800w"
+      },
+      {
+        "nombre": "KM 4850w"
+      },
+      {
+        "nombre": "TASKalfa 2420w"
+      },
+      {
+        "nombre": "ECOSYS M8130cidn"
+      },
+      {
+        "nombre": "TASKalfa 2551ci"
+      },
+      {
+        "nombre": "TASKalfa 306ci"
+      },
+      {
+        "nombre": "TASKalfa 3051ci"
+      },
+      {
+        "nombre": "TASKalfa 2550ci"
+      },
+      {
+        "nombre": "TASKalfa 3011i",
+        "aliases": ["TA3011I", "3011i"]
+      },
+      {
+        "nombre": "ECOSYS M4125idn"
+      },
+      {
+        "nombre": "TASKalfa 300i x"
+      },
+      {
+        "nombre": "TASKalfa 2553ci"
+      },
+      {
+        "nombre": "TASKalfa 2552ci"
+      },
+      {
+        "nombre": "TASKalfa 3010i"
+      }
+    ]
+  },
+  {
+    "marca": "Lanier",
+    "aliases": ["Lanier", "Lan", "Lr"],
+    "modelos": [
+      {
+        "nombre": "MP 9003"
+      },
+      {
+        "nombre": "Pro 907EX"
+      },
+      {
+        "nombre": "Pro 907"
+      },
+      {
+        "nombre": "Pro 1357EX"
+      },
+      {
+        "nombre": "MP 7503"
+      },
+      {
+        "nombre": "MP 6503"
+      },
+      {
+        "nombre": "Pro 1107EX"
+      },
+      {
+        "nombre": "Pro 1107"
+      },
+      {
+        "nombre": "MP C5502A"
+      },
+      {
+        "nombre": "MP C5502"
+      },
+      {
+        "nombre": "MP C4502A"
+      },
+      {
+        "nombre": "Pro 1357"
+      },
+      {
+        "nombre": "MP 7502SP"
+      },
+      {
+        "nombre": "Pro C5310s"
+      },
+      {
+        "nombre": "MP C3502"
+      },
+      {
+        "nombre": "IM C300F"
+      },
+      {
+        "nombre": "MP C3002"
+      },
+      {
+        "nombre": "MP 9002SP"
+      },
+      {
+        "nombre": "Pro C550EX"
+      },
+      {
+        "nombre": "MP 6002SP"
+      },
+      {
+        "nombre": "MP 500 Impressions2SP"
+      },
+      {
+        "nombre": "MP 6055"
+      },
+      {
+        "nombre": "MP 500 Impressions2"
+      },
+      {
+        "nombre": "MP 4002SP"
+      },
+      {
+        "nombre": "MP 3352SP"
+      },
+      {
+        "nombre": "MP C4502"
+      },
+      {
+        "nombre": "MP C2003"
+      },
+      {
+        "nombre": "MP C6003"
+      },
+      {
+        "nombre": "Pro C700EX"
+      },
+      {
+        "nombre": "IM 7000"
+      },
+      {
+        "nombre": "MP C307"
+      },
+      {
+        "nombre": "MP C306"
+      },
+      {
+        "nombre": "MP C3004ex"
+      },
+      {
+        "nombre": "IM C400F"
+      },
+      {
+        "nombre": "MP C3004"
+      },
+      {
+        "nombre": "MP C3504"
+      },
+      {
+        "nombre": "MP C3504ex"
+      },
+      {
+        "nombre": "MP C401"
+      },
+      {
+        "nombre": "MP C401SR"
+      },
+      {
+        "nombre": "MP C406"
+      },
+      {
+        "nombre": "MP C407"
+      },
+      {
+        "nombre": "Pro C651EX"
+      },
+      {
+        "nombre": "MP C4504"
+      },
+      {
+        "nombre": "MP C2504"
+      },
+      {
+        "nombre": "MP C2503"
+      },
+      {
+        "nombre": "MP C2004ex"
+      },
+      {
+        "nombre": "MP C2004"
+      },
+      {
+        "nombre": "MP C4504ex"
+      },
+      {
+        "nombre": "MP C6004"
+      },
+      {
+        "nombre": "Pro C901S"
+      },
+      {
+        "nombre": "Pro C900S"
+      },
+      {
+        "nombre": "Pro C900"
+      },
+      {
+        "nombre": "Pro C751EX"
+      },
+      {
+        "nombre": "Pro C751"
+      },
+      {
+        "nombre": "Pro C720"
+      },
+      {
+        "nombre": "MP C2504ex"
+      },
+      {
+        "nombre": "MP 3352"
+      },
+      {
+        "nombre": "IM C6500"
+      },
+      {
+        "nombre": "MP 2852SP"
+      },
+      {
+        "nombre": "Pro 8110s"
+      },
+      {
+        "nombre": "Pro 8110Se"
+      },
+      {
+        "nombre": "Pro 8120e"
+      },
+      {
+        "nombre": "Pro 8120s"
+      },
+      {
+        "nombre": "Pro 8120Se"
+      },
+      {
+        "nombre": "Pro 8200EX"
+      },
+      {
+        "nombre": "Pro 8200s"
+      },
+      {
+        "nombre": "Pro 8210"
+      },
+      {
+        "nombre": "Pro 8210s"
+      },
+      {
+        "nombre": "Pro 8320S"
+      },
+      {
+        "nombre": "Pro 8320"
+      },
+      {
+        "nombre": "Pro 8310S"
+      },
+      {
+        "nombre": "Pro 8310"
+      },
+      {
+        "nombre": "Pro 8300S"
+      },
+      {
+        "nombre": "IM 600SRF"
+      },
+      {
+        "nombre": "IM 550F"
+      },
+      {
+        "nombre": "IM 430Fb"
+      },
+      {
+        "nombre": "Pro 8220"
+      },
+      {
+        "nombre": "Pro 8220s"
+      },
+      {
+        "nombre": "Pro C5100S"
+      },
+      {
+        "nombre": "Pro C5110S"
+      },
+      {
+        "nombre": "Pro C901"
+      },
+      {
+        "nombre": "Pro C651"
+      },
+      {
+        "nombre": "Pro C7100S"
+      },
+      {
+        "nombre": "Pro C5200s"
+      },
+      {
+        "nombre": "Pro 8110e"
+      },
+      {
+        "nombre": "LD050B"
+      },
+      {
+        "nombre": "LD130C"
+      },
+      {
+        "nombre": "LD140"
+      },
+      {
+        "nombre": "MP 2852"
+      },
+      {
+        "nombre": "MP 2501SP"
+      },
+      {
+        "nombre": "MP 2352SP"
+      },
+      {
+        "nombre": "LD645C"
+      },
+      {
+        "nombre": "LD635C"
+      },
+      {
+        "nombre": "Pro C7200e"
+      },
+      {
+        "nombre": "Pro C7210SX"
+      },
+      {
+        "nombre": "Pro C7210X"
+      },
+      {
+        "nombre": "LD625C"
+      },
+      {
+        "nombre": "LD620C"
+      },
+      {
+        "nombre": "LD433SP"
+      },
+      {
+        "nombre": "LD425SP"
+      },
+      {
+        "nombre": "IM C400SRF"
+      },
+      {
+        "nombre": "IM C2000"
+      },
+      {
+        "nombre": "IM C3000"
+      },
+      {
+        "nombre": "IM C3500 Impressions"
+      },
+      {
+        "nombre": "IM C4500 Impressions"
+      },
+      {
+        "nombre": "IM C6000"
+      },
+      {
+        "nombre": "LD390"
+      },
+      {
+        "nombre": "LD380"
+      },
+      {
+        "nombre": "LD375C"
+      },
+      {
+        "nombre": "MP 6054"
+      },
+      {
+        "nombre": "LD370"
+      },
+      {
+        "nombre": "LD365C"
+      },
+      {
+        "nombre": "LD360"
+      },
+      {
+        "nombre": "LD140C"
+      },
+      {
+        "nombre": "IM C2500 Impressions"
+      },
+      {
+        "nombre": "Pro 8100Se"
+      },
+      {
+        "nombre": "MP 3555SPDF"
+      },
+      {
+        "nombre": "Pro 8100s"
+      },
+      {
+        "nombre": "Pro C7200S"
+      },
+      {
+        "nombre": "Pro C7200SL"
+      },
+      {
+        "nombre": "Pro C901 Graphic Arts +"
+      },
+      {
+        "nombre": "Pro C901S Graphic Arts +"
+      },
+      {
+        "nombre": "Pro C9100"
+      },
+      {
+        "nombre": "Pro C9110"
+      },
+      {
+        "nombre": "SP 8400DN"
+      },
+      {
+        "nombre": "SP C840DN"
+      },
+      {
+        "nombre": "SP C842DN"
+      },
+      {
+        "nombre": "IM 350F"
+      },
+      {
+        "nombre": "IM 430F"
+      },
+      {
+        "nombre": "IM 6000"
+      },
+      {
+        "nombre": "LW310"
+      },
+      {
+        "nombre": "LW324"
+      },
+      {
+        "nombre": "LW326"
+      },
+      {
+        "nombre": "LW410"
+      },
+      {
+        "nombre": "LW411"
+      },
+      {
+        "nombre": "IM 8000"
+      },
+      {
+        "nombre": "IM 9000"
+      },
+      {
+        "nombre": "Pro C7110X"
+      },
+      {
+        "nombre": "MP C6004ex"
+      },
+      {
+        "nombre": "Pro C7110SX"
+      },
+      {
+        "nombre": "Pro C7110"
+      },
+      {
+        "nombre": "SP C242SF"
+      },
+      {
+        "nombre": "Pro C9210"
+      },
+      {
+        "nombre": "Pro C9200"
+      },
+      {
+        "nombre": "Pro C5300s"
+      },
+      {
+        "nombre": "MP C8002"
+      },
+      {
+        "nombre": "MP C6502"
+      },
+      {
+        "nombre": "MP C5503"
+      },
+      {
+        "nombre": "MP C501SP"
+      },
+      {
+        "nombre": "MP C4503"
+      },
+      {
+        "nombre": "MP C3503"
+      },
+      {
+        "nombre": "MP C305"
+      },
+      {
+        "nombre": "MP C3003"
+      },
+      {
+        "nombre": "MP 3353"
+      },
+      {
+        "nombre": "MP 3053"
+      },
+      {
+        "nombre": "MP 301SPF"
+      },
+      {
+        "nombre": "MP 2553"
+      },
+      {
+        "nombre": "LW426"
+      },
+      {
+        "nombre": "Pro C7100SX"
+      },
+      {
+        "nombre": "Pro C7100X"
+      },
+      {
+        "nombre": "Pro C7110S"
+      },
+      {
+        "nombre": "MP C6503"
+      },
+      {
+        "nombre": "Pro C7100"
+      },
+      {
+        "nombre": "MP CW2201SP"
+      },
+      {
+        "nombre": "MP 3054"
+      },
+      {
+        "nombre": "MP 3055SP"
+      },
+      {
+        "nombre": "Pro 8100EXe"
+      },
+      {
+        "nombre": "MP 3055SPDF"
+      },
+      {
+        "nombre": "MP 305SPF"
+      },
+      {
+        "nombre": "MP 3554"
+      },
+      {
+        "nombre": "MP 3555SP"
+      },
+      {
+        "nombre": "MP 5055"
+      },
+      {
+        "nombre": "Pro C5210s"
+      },
+      {
+        "nombre": "MP 402SPF"
+      },
+      {
+        "nombre": "MP 4054"
+      },
+      {
+        "nombre": "MP 4055"
+      },
+      {
+        "nombre": "MP 501SPF"
+      },
+      {
+        "nombre": "MP C8003"
+      },
+      {
+        "nombre": "MP 5054"
+      },
+      {
+        "nombre": "Pro 8100ex"
+      },
+      {
+        "nombre": "MP 401SPF"
+      },
+      {
+        "nombre": "IM 2500 Impressions"
+      },
+      {
+        "nombre": "MP 601SPF"
+      },
+      {
+        "nombre": "MP 2555SP"
+      },
+      {
+        "nombre": "IM 3500 Impressions"
+      },
+      {
+        "nombre": "MP 2555SPDF"
+      },
+      {
+        "nombre": "MP W6700SP"
+      },
+      {
+        "nombre": "LW5100"
+      },
+      {
+        "nombre": "IM 4000"
+      },
+      {
+        "nombre": "MP W7100"
+      },
+      {
+        "nombre": "IM 500 Impressions0"
+      },
+      {
+        "nombre": "MP W8140"
+      },
+      {
+        "nombre": "LW7140"
+      },
+      {
+        "nombre": "MP 2554"
+      }
+    ]
+  },
+  {
+    "marca": "Oce",
+    "aliases": ["Oce", "Oc"],
+    "modelos": [
+      {
+        "nombre": "PlotWave 360"
+      },
+      {
+        "nombre": "PlotWave 340"
+      },
+      {
+        "nombre": "ColorWave 900"
+      },
+      {
+        "nombre": "PlotWave 3500"
+      },
+      {
+        "nombre": "PlotWave 5000"
+      },
+      {
+        "nombre": "PlotWave 7500"
+      },
+      {
+        "nombre": "VarioPrint 120"
+      },
+      {
+        "nombre": "VarioPrint 135"
+      },
+      {
+        "nombre": "ColorWave 500 Impressions"
+      },
+      {
+        "nombre": "VarioPrint 6250"
+      },
+      {
+        "nombre": "PlotWave 5500"
+      },
+      {
+        "nombre": "ColorWave 700"
+      },
+      {
+        "nombre": "PlotWave 3000"
+      },
+      {
+        "nombre": "PlotWave 900"
+      },
+      {
+        "nombre": "PlotWave 350"
+      },
+      {
+        "nombre": "VarioPrint 110"
+      },
+      {
+        "nombre": "PlotWave 500 Impressions"
+      },
+      {
+        "nombre": "VarioPrint 6330 TITAN"
+      },
+      {
+        "nombre": "VarioPrint 6270 TITAN"
+      },
+      {
+        "nombre": "VarioPrint 6220 TITAN"
+      },
+      {
+        "nombre": "VarioPrint 6180 TITAN"
+      },
+      {
+        "nombre": "TDS700"
+      },
+      {
+        "nombre": "ColorWave 3500 Impressions"
+      },
+      {
+        "nombre": "TDS450"
+      },
+      {
+        "nombre": "TDS600"
+      },
+      {
+        "nombre": "ColorWave 650"
+      },
+      {
+        "nombre": "Colorwave 300"
+      },
+      {
+        "nombre": "TDS800"
+      },
+      {
+        "nombre": "Plotwave 300"
+      },
+      {
+        "nombre": "TDS320"
+      },
+      {
+        "nombre": "TDS400"
+      },
+      {
+        "nombre": "Colorwave 600"
+      }
+    ]
+  },
+  {
+    "marca": "Ricoh",
+    "aliases": ["Ricoh", "Ric", "Rh"],
+    "modelos": [
+      {
+        "nombre": "SP C840DN"
+      },
+      {
+        "nombre": "Pro C7110"
+      },
+      {
+        "nombre": "Pro C7110S"
+      },
+      {
+        "nombre": "Pro C900S"
+      },
+      {
+        "nombre": "Pro C900"
+      },
+      {
+        "nombre": "Pro C7110SX"
+      },
+      {
+        "nombre": "Pro C720s"
+      },
+      {
+        "nombre": "Pro C7110X"
+      },
+      {
+        "nombre": "Pro C7200SL"
+      },
+      {
+        "nombre": "Pro C7210S"
+      },
+      {
+        "nombre": "Pro C901 Graphic Arts +"
+      },
+      {
+        "nombre": "Pro C9110"
+      },
+      {
+        "nombre": "Pro C9210"
+      },
+      {
+        "nombre": "SP 8400DN"
+      },
+      {
+        "nombre": "SP C842DN"
+      },
+      {
+        "nombre": "Pro C7200S"
+      },
+      {
+        "nombre": "Pro C901S Graphic Arts +"
+      },
+      {
+        "nombre": "Aficio MP 6002"
+      },
+      {
+        "nombre": "Pro C9200"
+      },
+      {
+        "nombre": "Aficio SP 5200S"
+      },
+      {
+        "nombre": "Aficio SP 5210SF"
+      },
+      {
+        "nombre": "Pro 1107"
+      },
+      {
+        "nombre": "Pro 1107EX"
+      },
+      {
+        "nombre": "Pro 1356EX"
+      },
+      {
+        "nombre": "Pro 1357"
+      },
+      {
+        "nombre": "Pro 1357EX"
+      },
+      {
+        "nombre": "Pro 907"
+      },
+      {
+        "nombre": "Pro 907EX"
+      },
+      {
+        "nombre": "Pro C651EX"
+      },
+      {
+        "nombre": "Pro C751"
+      },
+      {
+        "nombre": "Pro C751EX"
+      },
+      {
+        "nombre": "Pro C901 Graphic Arts Edition"
+      },
+      {
+        "nombre": "Pro C901S Graphic Arts Edition"
+      },
+      {
+        "nombre": "IM 8000"
+      },
+      {
+        "nombre": "IM 9000"
+      },
+      {
+        "nombre": "Pro C7100X"
+      },
+      {
+        "nombre": "Pro C651"
+      },
+      {
+        "nombre": "Pro C901"
+      },
+      {
+        "nombre": "Pro C9100"
+      },
+      {
+        "nombre": "Pro C7100SX"
+      },
+      {
+        "nombre": "MP C3004"
+      },
+      {
+        "nombre": "Pro C7100"
+      },
+      {
+        "nombre": "MP 3054"
+      },
+      {
+        "nombre": "MP 3055SP"
+      },
+      {
+        "nombre": "MP 3055SPDF"
+      },
+      {
+        "nombre": "MP 305SPF"
+      },
+      {
+        "nombre": "MP 3353"
+      },
+      {
+        "nombre": "MP 3554"
+      },
+      {
+        "nombre": "MP 3555SP"
+      },
+      {
+        "nombre": "MP 3555SPDF"
+      },
+      {
+        "nombre": "MP 401SPF"
+      },
+      {
+        "nombre": "MP 402SPF"
+      },
+      {
+        "nombre": "MP 4054"
+      },
+      {
+        "nombre": "MP 4055"
+      },
+      {
+        "nombre": "MP 501SPF"
+      },
+      {
+        "nombre": "MP 5054"
+      },
+      {
+        "nombre": "MP 3053"
+      },
+      {
+        "nombre": "MP 5055"
+      },
+      {
+        "nombre": "MP 6054"
+      },
+      {
+        "nombre": "MP 6055"
+      },
+      {
+        "nombre": "MP 6503"
+      },
+      {
+        "nombre": "MP 7503"
+      },
+      {
+        "nombre": "MP 9003"
+      },
+      {
+        "nombre": "MP C2003"
+      },
+      {
+        "nombre": "MP C2004"
+      },
+      {
+        "nombre": "MP C2004ex"
+      },
+      {
+        "nombre": "MP C2503"
+      },
+      {
+        "nombre": "MP C2504"
+      },
+      {
+        "nombre": "IM C300F"
+      },
+      {
+        "nombre": "MP C2504ex"
+      },
+      {
+        "nombre": "MP C3003"
+      },
+      {
+        "nombre": "Aficio MP CW2200SP"
+      },
+      {
+        "nombre": "MP 601SPF"
+      },
+      {
+        "nombre": "MP 2555SPDF"
+      },
+      {
+        "nombre": "MP 2555SP"
+      },
+      {
+        "nombre": "MP 2554"
+      },
+      {
+        "nombre": "Aficio SP C242SF"
+      },
+      {
+        "nombre": "Aficio MP9000"
+      },
+      {
+        "nombre": "Aficio MP C4500 Impressions"
+      },
+      {
+        "nombre": "Aficio MP C3500 Impressions"
+      },
+      {
+        "nombre": "Aficio MP C3300"
+      },
+      {
+        "nombre": "Aficio MP C3000"
+      },
+      {
+        "nombre": "Aficio MP C2800"
+      },
+      {
+        "nombre": "Aficio MP C2500 Impressions"
+      },
+      {
+        "nombre": "Aficio MP C2000"
+      },
+      {
+        "nombre": "Aficio MP 8000"
+      },
+      {
+        "nombre": "Aficio MP 7500 Impressions"
+      },
+      {
+        "nombre": "Aficio MP 6500 Impressions"
+      },
+      {
+        "nombre": "Aficio 240w"
+      },
+      {
+        "nombre": "Aficio 470w"
+      },
+      {
+        "nombre": "Aficio 480w"
+      },
+      {
+        "nombre": "Aficio MP 301SPF"
+      },
+      {
+        "nombre": "Aficio MP 4002SP"
+      },
+      {
+        "nombre": "MP 2553"
+      },
+      {
+        "nombre": "MP 2501SP"
+      },
+      {
+        "nombre": "IM 430F"
+      },
+      {
+        "nombre": "IM 350F"
+      },
+      {
+        "nombre": "Aficio SP W2470"
+      },
+      {
+        "nombre": "Aficio MP W7140"
+      },
+      {
+        "nombre": "MP C3004ex"
+      },
+      {
+        "nombre": "Aficio MP W5100"
+      },
+      {
+        "nombre": "Aficio MP W3600"
+      },
+      {
+        "nombre": "Aficio MP W2400"
+      },
+      {
+        "nombre": "Aficio MP 9002SP"
+      },
+      {
+        "nombre": "Aficio MP 7502SP"
+      },
+      {
+        "nombre": "Aficio MP 6002SP"
+      },
+      {
+        "nombre": "Aficio MP 500 Impressions2SP"
+      },
+      {
+        "nombre": "Aficio MP W3601"
+      },
+      {
+        "nombre": "MP C306"
+      },
+      {
+        "nombre": "MP C307"
+      },
+      {
+        "nombre": "MP C3503"
+      },
+      {
+        "nombre": "MP C6003"
+      },
+      {
+        "nombre": "MP C6004"
+      },
+      {
+        "nombre": "MP C6004ex"
+      },
+      {
+        "nombre": "MP C6502"
+      },
+      {
+        "nombre": "MP C6503"
+      },
+      {
+        "nombre": "MP C8002"
+      },
+      {
+        "nombre": "MP C8003"
+      },
+      {
+        "nombre": "MP CW2201SP"
+      },
+      {
+        "nombre": "MP W6700SP"
+      },
+      {
+        "nombre": "MP W7100"
+      },
+      {
+        "nombre": "MP W8140"
+      },
+      {
+        "nombre": "Pro 8100EX"
+      },
+      {
+        "nombre": "Pro 8100EXe"
+      },
+      {
+        "nombre": "Pro 8100s"
+      },
+      {
+        "nombre": "Pro 8100Se"
+      },
+      {
+        "nombre": "Pro 8110e"
+      },
+      {
+        "nombre": "Pro 8110s"
+      },
+      {
+        "nombre": "Pro C5210s"
+      },
+      {
+        "nombre": "Pro C5200s"
+      },
+      {
+        "nombre": "Pro C5110S"
+      },
+      {
+        "nombre": "Pro C5100S"
+      },
+      {
+        "nombre": "Pro 8220s"
+      },
+      {
+        "nombre": "Pro 8220"
+      },
+      {
+        "nombre": "MP C5503"
+      },
+      {
+        "nombre": "Pro 8210s"
+      },
+      {
+        "nombre": "Pro 8200s"
+      },
+      {
+        "nombre": "Pro 8200EX"
+      },
+      {
+        "nombre": "Pro 8120Se"
+      },
+      {
+        "nombre": "Pro 8120s"
+      },
+      {
+        "nombre": "Pro 8120e"
+      },
+      {
+        "nombre": "Pro 8110Se"
+      },
+      {
+        "nombre": "Pro 8210"
+      },
+      {
+        "nombre": "Pro C7100S"
+      },
+      {
+        "nombre": "MP C4504ex"
+      },
+      {
+        "nombre": "IM 430Fb"
+      },
+      {
+        "nombre": "IM C400F"
+      },
+      {
+        "nombre": "IM C400SRF"
+      },
+      {
+        "nombre": "MP C3504"
+      },
+      {
+        "nombre": "MP C3504ex"
+      },
+      {
+        "nombre": "MP C401"
+      },
+      {
+        "nombre": "MP C401SR"
+      },
+      {
+        "nombre": "MP C406"
+      },
+      {
+        "nombre": "MP C407"
+      },
+      {
+        "nombre": "Pro C7200e"
+      },
+      {
+        "nombre": "Pro C7210SX"
+      },
+      {
+        "nombre": "Pro C7210X"
+      },
+      {
+        "nombre": "MP C4503"
+      },
+      {
+        "nombre": "IM C2000"
+      },
+      {
+        "nombre": "IM C2500 Impressions"
+      },
+      {
+        "nombre": "IM C3000"
+      },
+      {
+        "nombre": "IM C3500 Impressions"
+      },
+      {
+        "nombre": "IM C4500 Impressions"
+      },
+      {
+        "nombre": "IM 550F"
+      },
+      {
+        "nombre": "IM 600SRF"
+      },
+      {
+        "nombre": "Pro 8300S"
+      },
+      {
+        "nombre": "Pro 8310"
+      },
+      {
+        "nombre": "Pro 8310S"
+      },
+      {
+        "nombre": "Pro 8320"
+      },
+      {
+        "nombre": "MP C4504"
+      },
+      {
+        "nombre": "Pro 8320S"
+      },
+      {
+        "nombre": "Pro C700EX"
+      },
+      {
+        "nombre": "Pro C550EX"
+      },
+      {
+        "nombre": "Pro C5310s"
+      },
+      {
+        "nombre": "Pro C5300s"
+      },
+      {
+        "nombre": "Pro 906EX"
+      },
+      {
+        "nombre": "IM C6000"
+      },
+      {
+        "nombre": "Pro C720"
+      },
+      {
+        "nombre": "Aficio MP C7501SP"
+      },
+      {
+        "nombre": "Pro 1106EX"
+      },
+      {
+        "nombre": "Aficio MP C6501SP"
+      },
+      {
+        "nombre": "IM 6000"
+      },
+      {
+        "nombre": "IM 500 Impressions0"
+      },
+      {
+        "nombre": "IM 4000"
+      },
+      {
+        "nombre": "IM 3500 Impressions"
+      },
+      {
+        "nombre": "IM 2500 Impressions"
+      },
+      {
+        "nombre": "Aficio MP C7500 Impressions"
+      },
+      {
+        "nombre": "Aficio MP C2051"
+      },
+      {
+        "nombre": "Aficio MP C2050"
+      },
+      {
+        "nombre": "Aficio MP C2030"
+      },
+      {
+        "nombre": "Aficio MP 9001"
+      },
+      {
+        "nombre": "Aficio MP 8001"
+      },
+      {
+        "nombre": "Aficio MP 7502"
+      },
+      {
+        "nombre": "Aficio MP 7001"
+      },
+      {
+        "nombre": "MP C305"
+      },
+      {
+        "nombre": "Aficio MP 6001"
+      },
+      {
+        "nombre": "Aficio MP 500 Impressions2"
+      },
+      {
+        "nombre": "Aficio MP 500 Impressions1"
+      },
+      {
+        "nombre": "IM C6010"
+      },
+      {
+        "nombre": "IM C4510"
+      },
+      {
+        "nombre": "IM C3510"
+      },
+      {
+        "nombre": "IM C3010"
+      },
+      {
+        "nombre": "IM C2510"
+      },
+      {
+        "nombre": "Aficio MP 2352SP"
+      },
+      {
+        "nombre": "GreenLine MP 6503SP"
+      },
+      {
+        "nombre": "Aficio MP 2851"
+      },
+      {
+        "nombre": "Aficio MP 3351"
+      },
+      {
+        "nombre": "Aficio MP 3352"
+      },
+      {
+        "nombre": "Aficio MP 4000B"
+      },
+      {
+        "nombre": "Aficio MP 4001"
+      },
+      {
+        "nombre": "Aficio MP 4002"
+      },
+      {
+        "nombre": "Aficio MP 500 Impressions0B"
+      },
+      {
+        "nombre": "Aficio MP 3350B"
+      },
+      {
+        "nombre": "GreenLine MP 7503SP"
+      },
+      {
+        "nombre": "Aficio MP 9002"
+      },
+      {
+        "nombre": "Aficio MP C3501"
+      },
+      {
+        "nombre": "IM C6500"
+      },
+      {
+        "nombre": "IM C8000"
+      },
+      {
+        "nombre": "Aficio MP C6000"
+      },
+      {
+        "nombre": "Aficio MP C5502"
+      },
+      {
+        "nombre": "Aficio MP C5501"
+      },
+      {
+        "nombre": "Aficio MP C500 Impressions0"
+      },
+      {
+        "nombre": "Aficio MP C4502"
+      },
+      {
+        "nombre": "Aficio MP C2550"
+      },
+      {
+        "nombre": "Aficio MP C2551"
+      },
+      {
+        "nombre": "Aficio MP C300"
+      },
+      {
+        "nombre": "Aficio MP C3001"
+      },
+      {
+        "nombre": "Aficio MP C3002"
+      },
+      {
+        "nombre": "IM 7000"
+      },
+      {
+        "nombre": "Aficio MP C3502"
+      },
+      {
+        "nombre": "Aficio MP C400"
+      },
+      {
+        "nombre": "Aficio MP C4000"
+      },
+      {
+        "nombre": "Aficio MP C4501"
+      },
+      {
+        "nombre": "GreenLine MP C6004"
+      },
+      {
+        "nombre": "GreenLine MP C3504"
+      },
+      {
+        "nombre": "GreenLine MP C4504"
+      },
+      {
+        "nombre": "GreenLine MP C3004"
+      },
+      {
+        "nombre": "GreenLine MP 6055SP"
+      },
+      {
+        "nombre": "GreenLine MP 5055SP"
+      },
+      {
+        "nombre": "GreenLine MP 2555SP"
+      },
+      {
+        "nombre": "GreenLine MP 4055SP"
+      },
+      {
+        "nombre": "GreenLine MP 3055SP"
+      }
+    ]
+  },
+  {
+    "marca": "Savin",
+    "aliases": ["Savin", "Sav", "Sv"],
+    "modelos": [
+      {
+        "nombre": "MP C2004"
+      },
+      {
+        "nombre": "MP C4504ex"
+      },
+      {
+        "nombre": "MP 301SPF"
+      },
+      {
+        "nombre": "IM C400F"
+      },
+      {
+        "nombre": "MP C3003"
+      },
+      {
+        "nombre": "MP C3503"
+      },
+      {
+        "nombre": "MP C4503"
+      },
+      {
+        "nombre": "MP C501SP"
+      },
+      {
+        "nombre": "MP C6004"
+      },
+      {
+        "nombre": "MP C6004ex"
+      },
+      {
+        "nombre": "MP C6503"
+      },
+      {
+        "nombre": "MP 2553"
+      },
+      {
+        "nombre": "IM C530FB"
+      },
+      {
+        "nombre": "C9065"
+      },
+      {
+        "nombre": "3406WD"
+      },
+      {
+        "nombre": "MP C2004ex"
+      },
+      {
+        "nombre": "Savin 2404WD"
+      },
+      {
+        "nombre": "Savin 2400WD"
+      },
+      {
+        "nombre": "MP C2504"
+      },
+      {
+        "nombre": "MP C2504ex"
+      },
+      {
+        "nombre": "MP C3004"
+      },
+      {
+        "nombre": "MP C3004ex"
+      },
+      {
+        "nombre": "MP C307"
+      },
+      {
+        "nombre": "MP C8003"
+      },
+      {
+        "nombre": "MP 7503"
+      },
+      {
+        "nombre": "MP 6503"
+      },
+      {
+        "nombre": "MP C3504"
+      },
+      {
+        "nombre": "MP C3504ex"
+      },
+      {
+        "nombre": "MP C406"
+      },
+      {
+        "nombre": "MP C407"
+      },
+      {
+        "nombre": "MP C4504"
+      },
+      {
+        "nombre": "MP 6055"
+      },
+      {
+        "nombre": "MP 9003"
+      },
+      {
+        "nombre": "MP CW2201SP"
+      },
+      {
+        "nombre": "IM 7000"
+      },
+      {
+        "nombre": "Pro 8200EX"
+      },
+      {
+        "nombre": "SP 8400DN"
+      },
+      {
+        "nombre": "SP C840DN"
+      },
+      {
+        "nombre": "SP C842DN"
+      },
+      {
+        "nombre": "IM 430Fb"
+      },
+      {
+        "nombre": "IM 550F"
+      },
+      {
+        "nombre": "IM 600SRF"
+      },
+      {
+        "nombre": "Pro 8300S"
+      },
+      {
+        "nombre": "Pro C9210"
+      },
+      {
+        "nombre": "Pro 8310"
+      },
+      {
+        "nombre": "Pro 8320"
+      },
+      {
+        "nombre": "Pro 8320S"
+      },
+      {
+        "nombre": "IM 2500 Impressions"
+      },
+      {
+        "nombre": "IM 3500 Impressions"
+      },
+      {
+        "nombre": "IM 4000"
+      },
+      {
+        "nombre": "IM 500 Impressions0"
+      },
+      {
+        "nombre": "IM 6000"
+      },
+      {
+        "nombre": "Pro 8310S"
+      },
+      {
+        "nombre": "Pro C9200"
+      },
+      {
+        "nombre": "Pro C7210x"
+      },
+      {
+        "nombre": "Pro C7210sx"
+      },
+      {
+        "nombre": "Pro 8200s"
+      },
+      {
+        "nombre": "Pro 8210"
+      },
+      {
+        "nombre": "Pro 8210s"
+      },
+      {
+        "nombre": "Pro 8220"
+      },
+      {
+        "nombre": "IM C400SRF"
+      },
+      {
+        "nombre": "IM C300F"
+      },
+      {
+        "nombre": "Pro C5310s"
+      },
+      {
+        "nombre": "IM C8000"
+      },
+      {
+        "nombre": "IM 350F"
+      },
+      {
+        "nombre": "IM C6500"
+      },
+      {
+        "nombre": "Pro 8220s"
+      },
+      {
+        "nombre": "Pro C5200s"
+      },
+      {
+        "nombre": "Pro C5210s"
+      },
+      {
+        "nombre": "Pro C7200e"
+      },
+      {
+        "nombre": "MP C5503"
+      },
+      {
+        "nombre": "Pro C7200S"
+      },
+      {
+        "nombre": "Pro C7200SL"
+      },
+      {
+        "nombre": "MP W6700SP"
+      },
+      {
+        "nombre": "MP C6003"
+      },
+      {
+        "nombre": "MP 3353"
+      },
+      {
+        "nombre": "Pro C5300s"
+      },
+      {
+        "nombre": "C9120"
+      },
+      {
+        "nombre": "C9075"
+      },
+      {
+        "nombre": "C9025"
+      },
+      {
+        "nombre": "C240"
+      },
+      {
+        "nombre": "MP C6502"
+      },
+      {
+        "nombre": "C230"
+      },
+      {
+        "nombre": "9240"
+      },
+      {
+        "nombre": "917"
+      },
+      {
+        "nombre": "9090"
+      },
+      {
+        "nombre": "Pro C700EX"
+      },
+      {
+        "nombre": "9080"
+      },
+      {
+        "nombre": "9070"
+      },
+      {
+        "nombre": "9060"
+      },
+      {
+        "nombre": "Pro C720"
+      },
+      {
+        "nombre": "Pro C720s"
+      },
+      {
+        "nombre": "MP 500 Impressions2SP"
+      },
+      {
+        "nombre": "Pro C900"
+      },
+      {
+        "nombre": "Pro C900S"
+      },
+      {
+        "nombre": "Pro C901"
+      },
+      {
+        "nombre": "C9125"
+      },
+      {
+        "nombre": "C9135"
+      },
+      {
+        "nombre": "C9145"
+      },
+      {
+        "nombre": "MP 2352SP"
+      },
+      {
+        "nombre": "MP 6002SP"
+      },
+      {
+        "nombre": "MP 7502SP"
+      },
+      {
+        "nombre": "MP 9002SP"
+      },
+      {
+        "nombre": "MP C3002"
+      },
+      {
+        "nombre": "MP C4502"
+      },
+      {
+        "nombre": "MP C4502A"
+      },
+      {
+        "nombre": "MP 4002SP"
+      },
+      {
+        "nombre": "MP 3352SP"
+      },
+      {
+        "nombre": "MP C5502"
+      },
+      {
+        "nombre": "SP 5200S"
+      },
+      {
+        "nombre": "MP C5502A"
+      },
+      {
+        "nombre": "Pro 1107EX"
+      },
+      {
+        "nombre": "Pro 907"
+      },
+      {
+        "nombre": "Pro 907EX"
+      },
+      {
+        "nombre": "Pro C550EX"
+      },
+      {
+        "nombre": "Pro C651EX"
+      },
+      {
+        "nombre": "MP 3352"
+      },
+      {
+        "nombre": "MP 2852SP"
+      },
+      {
+        "nombre": "MP 2852"
+      },
+      {
+        "nombre": "MP 2501SP"
+      },
+      {
+        "nombre": "Pro 1107"
+      },
+      {
+        "nombre": "SP 5210SF"
+      },
+      {
+        "nombre": "Pro C751EX"
+      },
+      {
+        "nombre": "IM 8000"
+      },
+      {
+        "nombre": "SP 5210SR"
+      },
+      {
+        "nombre": "MP 2555SP"
+      },
+      {
+        "nombre": "MP 2555SPDF"
+      },
+      {
+        "nombre": "MP 3055SP"
+      },
+      {
+        "nombre": "Pro C651"
+      },
+      {
+        "nombre": "MP 3055SPDF"
+      },
+      {
+        "nombre": "MP 305SPF"
+      },
+      {
+        "nombre": "MP 3555SP"
+      },
+      {
+        "nombre": "Pro C5110S"
+      },
+      {
+        "nombre": "Pro C5100S"
+      },
+      {
+        "nombre": "IM C6000"
+      },
+      {
+        "nombre": "Pro 8120s"
+      },
+      {
+        "nombre": "Pro 8100s"
+      },
+      {
+        "nombre": "MP C8002"
+      },
+      {
+        "nombre": "MP 3053"
+      },
+      {
+        "nombre": "MP 3555SPDF"
+      },
+      {
+        "nombre": "MP 402SPF"
+      },
+      {
+        "nombre": "MP 4055"
+      },
+      {
+        "nombre": "MP 501SPF"
+      },
+      {
+        "nombre": "MP 5055"
+      },
+      {
+        "nombre": "MP 601SPF"
+      },
+      {
+        "nombre": "9033b"
+      },
+      {
+        "nombre": "Pro 8110s"
+      },
+      {
+        "nombre": "IM C4500 Impressions"
+      },
+      {
+        "nombre": "MP 500 Impressions2"
+      },
+      {
+        "nombre": "IM C3000"
+      },
+      {
+        "nombre": "IM 9000"
+      },
+      {
+        "nombre": "9050b"
+      },
+      {
+        "nombre": "Savin 2406WD"
+      },
+      {
+        "nombre": "Savin 4700WD"
+      },
+      {
+        "nombre": "Savin 4800WD"
+      },
+      {
+        "nombre": "Savin 5100WD"
+      },
+      {
+        "nombre": "Savin 7140WD"
+      },
+      {
+        "nombre": "IM C3500 Impressions"
+      },
+      {
+        "nombre": "IM 430F"
+      },
+      {
+        "nombre": "IM C2500 Impressions"
+      },
+      {
+        "nombre": "IM C2000"
+      }
+    ]
+  },
+  {
+    "marca": "Sharp",
+    "aliases": ["Sharp", "Shp", "Sh"],
+    "modelos": [
+      {
+        "nombre": "MX-M754N"
+      },
+      {
+        "nombre": "MX-M314N"
+      },
+      {
+        "nombre": "MX-M316N"
+      },
+      {
+        "nombre": "MX-M465N"
+      },
+      {
+        "nombre": "MX-M564N"
+      },
+      {
+        "nombre": "MX-M365N"
+      },
+      {
+        "nombre": "MX-M905"
+      },
+      {
+        "nombre": "MX-M7570"
+      },
+      {
+        "nombre": "MX-M565N"
+      },
+      {
+        "nombre": "MX-M623N"
+      },
+      {
+        "nombre": "MX-M354N"
+      },
+      {
+        "nombre": "MX-M623U"
+      },
+      {
+        "nombre": "MX-M904"
+      },
+      {
+        "nombre": "MX-M654N"
+      },
+      {
+        "nombre": "MX-M6570"
+      },
+      {
+        "nombre": "MX-M753N"
+      },
+      {
+        "nombre": "MX-M753U"
+      },
+      {
+        "nombre": "MX-M364N"
+      },
+      {
+        "nombre": "MX-M464N"
+      },
+      {
+        "nombre": "BP-50C31"
+      },
+      {
+        "nombre": "M1056"
+      },
+      {
+        "nombre": "BP-50C65"
+      },
+      {
+        "nombre": "BP-50C55"
+      },
+      {
+        "nombre": "BP-70M75"
+      },
+      {
+        "nombre": "BP-70M90"
+      },
+      {
+        "nombre": "BP-70M65"
+      },
+      {
+        "nombre": "BP-70M55"
+      },
+      {
+        "nombre": "BP-50M65"
+      },
+      {
+        "nombre": "BP-50M55"
+      },
+      {
+        "nombre": "BP-70C55"
+      },
+      {
+        "nombre": "MX-C428F"
+      },
+      {
+        "nombre": "MX-C528P"
+      },
+      {
+        "nombre": "BP-50M26"
+      },
+      {
+        "nombre": "BP-70M31"
+      },
+      {
+        "nombre": "BP-70M36"
+      },
+      {
+        "nombre": "BP-70M45"
+      },
+      {
+        "nombre": "BP-50M31"
+      },
+      {
+        "nombre": "BP-50M36"
+      },
+      {
+        "nombre": "BP-50M45"
+      },
+      {
+        "nombre": "MX-C528F"
+      },
+      {
+        "nombre": "M1206"
+      },
+      {
+        "nombre": "BP-70C65"
+      },
+      {
+        "nombre": "MX-C303WH"
+      },
+      {
+        "nombre": "MX-M6071S"
+      },
+      {
+        "nombre": "MX-M5071S"
+      },
+      {
+        "nombre": "MX-M4071S"
+      },
+      {
+        "nombre": "MX-M3571S"
+      },
+      {
+        "nombre": "MX-M3071S"
+      },
+      {
+        "nombre": "MX-6071S"
+      },
+      {
+        "nombre": "MX-5071S"
+      },
+      {
+        "nombre": "MX-4071S"
+      },
+      {
+        "nombre": "MX-C304WH"
+      },
+      {
+        "nombre": "MX-3571S"
+      },
+      {
+        "nombre": "BP-50C45"
+      },
+      {
+        "nombre": "BP-50C36"
+      },
+      {
+        "nombre": "BP-70C45"
+      },
+      {
+        "nombre": "BP-70C36"
+      },
+      {
+        "nombre": "BP-50C26"
+      },
+      {
+        "nombre": "BP-70C31"
+      },
+      {
+        "nombre": "MX-B376WH"
+      },
+      {
+        "nombre": "MX-B476WH"
+      },
+      {
+        "nombre": "MX-3071S"
+      },
+      {
+        "nombre": "MX-M266N"
+      },
+      {
+        "nombre": "MX-3110N"
+      },
+      {
+        "nombre": "MX-M2630"
+      },
+      {
+        "nombre": "MX-3115N"
+      },
+      {
+        "nombre": "MX-3116N"
+      },
+      {
+        "nombre": "MX-3140N"
+      },
+      {
+        "nombre": "MX-3550N"
+      },
+      {
+        "nombre": "MX-3550V"
+      },
+      {
+        "nombre": "MX-M264N"
+      },
+      {
+        "nombre": "MX-3570N"
+      },
+      {
+        "nombre": "MX-3570V"
+      },
+      {
+        "nombre": "MX-3571"
+      },
+      {
+        "nombre": "MX-3610N"
+      },
+      {
+        "nombre": "MX-3640N"
+      },
+      {
+        "nombre": "MX-4050N"
+      },
+      {
+        "nombre": "MX-4050V"
+      },
+      {
+        "nombre": "MX-4051"
+      },
+      {
+        "nombre": "MX-4070N"
+      },
+      {
+        "nombre": "MX-4070V"
+      },
+      {
+        "nombre": "MX-4071"
+      },
+      {
+        "nombre": "MX-5051"
+      },
+      {
+        "nombre": "MX-5071"
+      },
+      {
+        "nombre": "MX-3111U"
+      },
+      {
+        "nombre": "MX-3071"
+      },
+      {
+        "nombre": "MX-3070V"
+      },
+      {
+        "nombre": "MX-3070N"
+      },
+      {
+        "nombre": "MX-7081"
+      },
+      {
+        "nombre": "MX-8081"
+      },
+      {
+        "nombre": "MX-C357F"
+      },
+      {
+        "nombre": "MX-C407F"
+      },
+      {
+        "nombre": "MX-C407P"
+      },
+      {
+        "nombre": "MX-C357F"
+      },
+      {
+        "nombre": "MX-B557P"
+      },
+      {
+        "nombre": "MX-B707P"
+      },
+      {
+        "nombre": "MX-C507P"
+      },
+      {
+        "nombre": "MX-6051"
+      },
+      {
+        "nombre": "MX-C607P"
+      },
+      {
+        "nombre": "MX-2610N"
+      },
+      {
+        "nombre": "MX-2615N"
+      },
+      {
+        "nombre": "MX-2616N"
+      },
+      {
+        "nombre": "MX-2630N"
+      },
+      {
+        "nombre": "MX-2640N"
+      },
+      {
+        "nombre": "MX-2651"
+      },
+      {
+        "nombre": "MX-3050N"
+      },
+      {
+        "nombre": "MX-3050V"
+      },
+      {
+        "nombre": "MX-3051"
+      },
+      {
+        "nombre": "MX-2310U"
+      },
+      {
+        "nombre": "MX-6071"
+      },
+      {
+        "nombre": "MX-3551"
+      },
+      {
+        "nombre": "MX-B476W"
+      },
+      {
+        "nombre": "MX-7500 ImpressionsN"
+      },
+      {
+        "nombre": "MX-8090N"
+      },
+      {
+        "nombre": "MX-C303W"
+      },
+      {
+        "nombre": "MX-C304W"
+      },
+      {
+        "nombre": "MX-M1205"
+      },
+      {
+        "nombre": "MX-M1204"
+      },
+      {
+        "nombre": "MX-M1055"
+      },
+      {
+        "nombre": "MX-M1054"
+      },
+      {
+        "nombre": "MX-5140N"
+      },
+      {
+        "nombre": "MX-5141N"
+      },
+      {
+        "nombre": "MX-6050V"
+      },
+      {
+        "nombre": "MX-6070N"
+      },
+      {
+        "nombre": "MX-B376W"
+      },
+      {
+        "nombre": "MX-C312"
+      },
+      {
+        "nombre": "MX-6070V"
+      },
+      {
+        "nombre": "MX-6240N"
+      },
+      {
+        "nombre": "MX-6500 ImpressionsN"
+      },
+      {
+        "nombre": "MX-6580N"
+      },
+      {
+        "nombre": "MX-6050N"
+      },
+      {
+        "nombre": "MX-7040N"
+      },
+      {
+        "nombre": "MX-5111N"
+      },
+      {
+        "nombre": "MX-5070V"
+      },
+      {
+        "nombre": "MX-M2651"
+      },
+      {
+        "nombre": "MX-M3051"
+      },
+      {
+        "nombre": "MX-M3071"
+      },
+      {
+        "nombre": "MX-M3551"
+      },
+      {
+        "nombre": "MX-M3571"
+      },
+      {
+        "nombre": "MX-M4051"
+      },
+      {
+        "nombre": "MX-7580N"
+      },
+      {
+        "nombre": "MX-M4071"
+      },
+      {
+        "nombre": "MX-M5051"
+      },
+      {
+        "nombre": "MX-M5071"
+      },
+      {
+        "nombre": "MX-M6051"
+      },
+      {
+        "nombre": "MX-M6071"
+      },
+      {
+        "nombre": "MX-4110N"
+      },
+      {
+        "nombre": "MX-4111N"
+      },
+      {
+        "nombre": "MX-4140N"
+      },
+      {
+        "nombre": "MX-4141N"
+      },
+      {
+        "nombre": "MX-5050N"
+      },
+      {
+        "nombre": "MX-5050V"
+      },
+      {
+        "nombre": "MX-5070N"
+      },
+      {
+        "nombre": "MX-5110N"
+      },
+      {
+        "nombre": "MX-7090N"
+      }
+    ]
+  },
+  {
+    "marca": "Toshiba",
+    "aliases": ["Toshiba", "Tosh", "Tb"],
+    "modelos": [
+      {
+        "nombre": "e-STUDIO 7527ACT"
+      },
+      {
+        "nombre": "e-STUDIO 6527ACT"
+      },
+      {
+        "nombre": "e-STUDIO 3528AG"
+      },
+      {
+        "nombre": "e-STUDIO 4525ACG"
+      },
+      {
+        "nombre": "e-STUDIO 9029A"
+      },
+      {
+        "nombre": "e-STUDIO 3525ACG"
+      },
+      {
+        "nombre": "e-STUDIO 5015AC"
+      },
+      {
+        "nombre": "e-STUDIO 4515AC"
+      },
+      {
+        "nombre": "e-STUDIO 3515AC"
+      },
+      {
+        "nombre": "e-STUDIO 4528AG"
+      },
+      {
+        "nombre": "e-STUDIO 7529A"
+      },
+      {
+        "nombre": "e-STUDIO 2525AC"
+      },
+      {
+        "nombre": "e-STUDIO 7527AC"
+      },
+      {
+        "nombre": "e-STUDIO409S"
+      },
+      {
+        "nombre": "e-STUDIO 6528A"
+      },
+      {
+        "nombre": "e-STUDIO 6525AC"
+      },
+      {
+        "nombre": "e-STUDIO 5525AC"
+      },
+      {
+        "nombre": "e-STUDIO 4525AC"
+      },
+      {
+        "nombre": "e-STUDIO 5528A"
+      },
+      {
+        "nombre": "e-STUDIO 4528A"
+      },
+      {
+        "nombre": "e-STUDIO 3528A"
+      },
+      {
+        "nombre": "e-STUDIO 6529A"
+      },
+      {
+        "nombre": "e-STUDIO 3525AC"
+      },
+      {
+        "nombre": "e-STUDIO 2520AC"
+      },
+      {
+        "nombre": "e-STUDIO 3025AC"
+      },
+      {
+        "nombre": "e-STUDIO 1058"
+      },
+      {
+        "nombre": "e-STUDIO 1208"
+      },
+      {
+        "nombre": "e-STUDIO 908"
+      },
+      {
+        "nombre": "e-STUDIO 330AC"
+      },
+      {
+        "nombre": "e-STUDIO 400AC"
+      },
+      {
+        "nombre": "e-STUDIO 6527AC"
+      },
+      {
+        "nombre": "e-STUDIO 2528A"
+      },
+      {
+        "nombre": "e-STUDIO 3015ACG"
+      },
+      {
+        "nombre": "e-STUDIO 2515AC"
+      },
+      {
+        "nombre": "e-STUDIO 305"
+      },
+      {
+        "nombre": "e-STUDIO 352"
+      },
+      {
+        "nombre": "e-STUDIO 3040C"
+      },
+      {
+        "nombre": "e-STUDIO 2830C"
+      },
+      {
+        "nombre": "e-STUDIO 256"
+      },
+      {
+        "nombre": "e-STUDIO 255"
+      },
+      {
+        "nombre": "e-STUDIO 2540C"
+      },
+      {
+        "nombre": "e-STUDIO 2330C"
+      },
+      {
+        "nombre": "e-STUDIO 6570CT"
+      },
+      {
+        "nombre": "e-STUDIO 657G"
+      },
+      {
+        "nombre": "e-STUDIO 7506AC"
+      },
+      {
+        "nombre": "e-STUDIO 3015AC"
+      },
+      {
+        "nombre": "e-STUDIO 1057"
+      },
+      {
+        "nombre": "e-STUDIO 1207"
+      },
+      {
+        "nombre": "e-STUDIO 2000AC"
+      },
+      {
+        "nombre": "e-STUDIO 2008A"
+      },
+      {
+        "nombre": "e-STUDIO 6570CG"
+      },
+      {
+        "nombre": "e-STUDIO 2010AC"
+      },
+      {
+        "nombre": "e-STUDIO 353"
+      },
+      {
+        "nombre": "e-STUDIO 3540C"
+      },
+      {
+        "nombre": "e-STUDIO 755"
+      },
+      {
+        "nombre": "e-STUDIO 7030C PRO"
+      },
+      {
+        "nombre": "e-STUDIO 656"
+      },
+      {
+        "nombre": "e-STUDIO 6550C"
+      },
+      {
+        "nombre": "e-STUDIO 655"
+      },
+      {
+        "nombre": "e-STUDIO 6540C"
+      },
+      {
+        "nombre": "e-STUDIO 6530C"
+      },
+      {
+        "nombre": "e-STUDIO 6520C"
+      },
+      {
+        "nombre": "e-STUDIO 555"
+      },
+      {
+        "nombre": "e-STUDIO 5520C"
+      },
+      {
+        "nombre": "e-STUDIO 456"
+      },
+      {
+        "nombre": "e-STUDIO 455"
+      },
+      {
+        "nombre": "e-STUDIO 4520C"
+      },
+      {
+        "nombre": "e-STUDIO 356"
+      },
+      {
+        "nombre": "e-STUDIO 355"
+      },
+      {
+        "nombre": "e-STUDIO 3530C"
+      },
+      {
+        "nombre": "e-STUDIO 756"
+      },
+      {
+        "nombre": "e-STUDIO 2018A"
+      },
+      {
+        "nombre": "e-STUDIO 2050C"
+      },
+      {
+        "nombre": "e-STUDIO 7516AC"
+      },
+      {
+        "nombre": "e-STUDIO 7516ACT"
+      },
+      {
+        "nombre": "e-STUDIO 7516ACTG"
+      },
+      {
+        "nombre": "e-STUDIO 7518A"
+      },
+      {
+        "nombre": "e-STUDIO 755SE"
+      },
+      {
+        "nombre": "e-STUDIO 757"
+      },
+      {
+        "nombre": "e-STUDIO 8508A"
+      },
+      {
+        "nombre": "e-STUDIO 8508AG"
+      },
+      {
+        "nombre": "e-STUDIO 8518A"
+      },
+      {
+        "nombre": "e-STUDIO 8518AG"
+      },
+      {
+        "nombre": "e-STUDIO 855SE"
+      },
+      {
+        "nombre": "e-STUDIO 856G"
+      },
+      {
+        "nombre": "e-STUDIO 857"
+      },
+      {
+        "nombre": "e-STUDIO 857G"
+      },
+      {
+        "nombre": "e-STUDIO 907"
+      },
+      {
+        "nombre": "e-STUDIO 7508A"
+      },
+      {
+        "nombre": "e-STUDIO 2040c"
+      },
+      {
+        "nombre": "e-STUDIO 7506ACT"
+      },
+      {
+        "nombre": "e-STUDIO 3008A"
+      },
+      {
+        "nombre": "e-STUDIO 2051C"
+      },
+      {
+        "nombre": "e-STUDIO 205SE"
+      },
+      {
+        "nombre": "e-STUDIO 206L"
+      },
+      {
+        "nombre": "e-STUDIO 207L"
+      },
+      {
+        "nombre": "e-STUDIO 2500 ImpressionsAC"
+      },
+      {
+        "nombre": "e-STUDIO 2505AC"
+      },
+      {
+        "nombre": "e-STUDIO 2508A"
+      },
+      {
+        "nombre": "e-STUDIO 2550C"
+      },
+      {
+        "nombre": "e-STUDIO 2551C"
+      },
+      {
+        "nombre": "e-STUDIO 2555C"
+      },
+      {
+        "nombre": "e-STUDIO 255SE"
+      },
+      {
+        "nombre": "e-STUDIO 257"
+      },
+      {
+        "nombre": "e-STUDIO 2803AM"
+      },
+      {
+        "nombre": "e-STUDIO 3005AC"
+      },
+      {
+        "nombre": "e-STUDIO 3005ACG"
+      },
+      {
+        "nombre": "e-STUDIO 7506ACG"
+      },
+      {
+        "nombre": "e-STUDIO 855"
+      },
+      {
+        "nombre": "e-STUDIO 556"
+      },
+      {
+        "nombre": "e-STUDIO 901"
+      },
+      {
+        "nombre": "e-STUDIO 4508A"
+      },
+      {
+        "nombre": "e-STUDIO 4508LP"
+      },
+      {
+        "nombre": "e-STUDIO 4540CG"
+      },
+      {
+        "nombre": "e-STUDIO 4555C"
+      },
+      {
+        "nombre": "e-STUDIO 455SE"
+      },
+      {
+        "nombre": "e-STUDIO 456G"
+      },
+      {
+        "nombre": "e-STUDIO 457"
+      },
+      {
+        "nombre": "e-STUDIO 856"
+      },
+      {
+        "nombre": "e-STUDIO 500 Impressions5ACG"
+      },
+      {
+        "nombre": "e-STUDIO 500 Impressions8A"
+      },
+      {
+        "nombre": "e-STUDIO 500 Impressions8AG"
+      },
+      {
+        "nombre": "e-STUDIO 5015ACG"
+      },
+      {
+        "nombre": "e-STUDIO 5018AG"
+      },
+      {
+        "nombre": "e-STUDIO 5055C"
+      },
+      {
+        "nombre": "e-STUDIO 5055CG"
+      },
+      {
+        "nombre": "e-STUDIO 4505AC"
+      },
+      {
+        "nombre": "e-STUDIO 389CS"
+      },
+      {
+        "nombre": "e-STUDIO 357"
+      },
+      {
+        "nombre": "e-STUDIO 3555C"
+      },
+      {
+        "nombre": "e-STUDIO2829A"
+      },
+      {
+        "nombre": "e-STUDIO2823AM"
+      },
+      {
+        "nombre": "e-STUDIO2822AM"
+      },
+      {
+        "nombre": "e-STUDIO2822AF"
+      },
+      {
+        "nombre": "e-STUDIO 3018AG"
+      },
+      {
+        "nombre": "e-STUDIO 3040CG"
+      },
+      {
+        "nombre": "e-STUDIO 3055C"
+      },
+      {
+        "nombre": "e-STUDIO 506"
+      },
+      {
+        "nombre": "e-STUDIO 3008AG"
+      },
+      {
+        "nombre": "e-STUDIO 305SE"
+      },
+      {
+        "nombre": "e-STUDIO 306"
+      },
+      {
+        "nombre": "e-STUDIO 306G"
+      },
+      {
+        "nombre": "e-STUDIO 307"
+      },
+      {
+        "nombre": "e-STUDIO 307G"
+      },
+      {
+        "nombre": "e-STUDIO 3505AC"
+      },
+      {
+        "nombre": "e-STUDIO 3508A"
+      },
+      {
+        "nombre": "e-STUDIO 3055CG"
+      },
+      {
+        "nombre": "e-STUDIO 507"
+      },
+      {
+        "nombre": "e-STUDIO 500 Impressions5AC"
+      },
+      {
+        "nombre": "e-STUDIO 5506ACG"
+      },
+      {
+        "nombre": "e-STUDIO 6508AG"
+      },
+      {
+        "nombre": "e-STUDIO 6516AC"
+      },
+      {
+        "nombre": "e-STUDIO 6516ACT"
+      },
+      {
+        "nombre": "e-STUDIO 6518A"
+      },
+      {
+        "nombre": "e-STUDIO 6518AG"
+      },
+      {
+        "nombre": "e-STUDIO 6540CG"
+      },
+      {
+        "nombre": "e-STUDIO 6540cT"
+      },
+      {
+        "nombre": "e-STUDIO 6550cT"
+      },
+      {
+        "nombre": "e-STUDIO 5506AC"
+      },
+      {
+        "nombre": "e-STUDIO 6560C"
+      },
+      {
+        "nombre": "e-STUDIO 6560CT"
+      },
+      {
+        "nombre": "e-STUDIO 656G"
+      },
+      {
+        "nombre": "e-STUDIO 657"
+      },
+      {
+        "nombre": "e-STUDIO 6570C"
+      },
+      {
+        "nombre": "e-STUDIO 905"
+      },
+      {
+        "nombre": "e-STUDIO 6508A"
+      },
+      {
+        "nombre": "e-STUDIO 6506ACT"
+      },
+      {
+        "nombre": "e-STUDIO 655SE"
+      },
+      {
+        "nombre": "e-STUDIO 557"
+      },
+      {
+        "nombre": "e-STUDIO 6506AC"
+      },
+      {
+        "nombre": "e-STUDIO 5506ACT"
+      },
+      {
+        "nombre": "e-STUDIO 5508A"
+      },
+      {
+        "nombre": "e-STUDIO 5516AC"
+      },
+      {
+        "nombre": "e-STUDIO 5516ACT"
+      },
+      {
+        "nombre": "e-STUDIO 5516ACTG"
+      },
+      {
+        "nombre": "e-STUDIO 5540c"
+      },
+      {
+        "nombre": "e-STUDIO 5540CG"
+      },
+      {
+        "nombre": "e-STUDIO 5518A"
+      },
+      {
+        "nombre": "e-STUDIO 5540cT"
+      },
+      {
+        "nombre": "e-STUDIO 555SE"
+      },
+      {
+        "nombre": "e-STUDIO 5560C"
+      },
+      {
+        "nombre": "e-STUDIO 5560CG"
+      },
+      {
+        "nombre": "e-STUDIO 5560CT"
+      }
+    ]
+  },
+  {
+    "marca": "Xerox",
+    "aliases": ["Xerox", "Xer", "Xe"],
+    "modelos": [
+      {
+        "nombre": "Color 800i Press"
+      },
+      {
+        "nombre": "ColorQube 9303"
+      },
+      {
+        "nombre": "Color 1000i Press"
+      },
+      {
+        "nombre": "Color 8250 Production Printer"
+      },
+      {
+        "nombre": "Brenva HD Production Inkjet Press"
+      },
+      {
+        "nombre": "Color C60 Printer"
+      },
+      {
+        "nombre": "Color C70 Printer"
+      },
+      {
+        "nombre": "ColorQube 9301"
+      },
+      {
+        "nombre": "ColorQube 9302"
+      },
+      {
+        "nombre": "Color 570 Printer"
+      },
+      {
+        "nombre": "D136 Copier Printer"
+      },
+      {
+        "nombre": "VersaLink B7125"
+      },
+      {
+        "nombre": "D95A Copier Printer"
+      },
+      {
+        "nombre": "iGen 5 120 Press"
+      },
+      {
+        "nombre": "iGen 5 150 Press"
+      },
+      {
+        "nombre": "VersaLink C7120"
+      },
+      {
+        "nombre": "VersaLink C7125"
+      },
+      {
+        "nombre": "VersaLink C7130"
+      },
+      {
+        "nombre": "iGen 5 90 Press"
+      },
+      {
+        "nombre": "iGen4 Diamond Edition"
+      },
+      {
+        "nombre": "AltaLink C8070"
+      },
+      {
+        "nombre": "VersaLink B7130"
+      },
+      {
+        "nombre": "VersaLink B7135"
+      },
+      {
+        "nombre": "D136 Printer"
+      },
+      {
+        "nombre": "AltaLink C8055"
+      },
+      {
+        "nombre": "PrimeLink C9065"
+      },
+      {
+        "nombre": "AltaLink C8035"
+      },
+      {
+        "nombre": "VersaLink C625DN"
+      },
+      {
+        "nombre": "VersaLink B625DN"
+      },
+      {
+        "nombre": "Color EC70 Printer"
+      },
+      {
+        "nombre": "Nuvera 314 EA"
+      },
+      {
+        "nombre": "Xerox 510"
+      },
+      {
+        "nombre": "Xerox 6030"
+      },
+      {
+        "nombre": "Xerox 6050"
+      },
+      {
+        "nombre": "PrimeLink B9136"
+      },
+      {
+        "nombre": "PrimeLink B9125"
+      },
+      {
+        "nombre": "PrimeLink B9110"
+      },
+      {
+        "nombre": "PrimeLink B9100"
+      },
+      {
+        "nombre": "AltaLink C8045"
+      },
+      {
+        "nombre": "Xerox 6204"
+      },
+      {
+        "nombre": "VersaLink C605XL"
+      },
+      {
+        "nombre": "Xerox 6604"
+      },
+      {
+        "nombre": "Xerox 6605"
+      },
+      {
+        "nombre": "Xerox 6622"
+      },
+      {
+        "nombre": "Xerox 721"
+      },
+      {
+        "nombre": "AltaLink B8045"
+      },
+      {
+        "nombre": "AltaLink B8055"
+      },
+      {
+        "nombre": "AltaLink B8065"
+      },
+      {
+        "nombre": "AltaLink B8075"
+      },
+      {
+        "nombre": "AltaLink B8090"
+      },
+      {
+        "nombre": "AltaLink C8030"
+      },
+      {
+        "nombre": "Xerox 6279"
+      },
+      {
+        "nombre": "VersaLink B7025"
+      },
+      {
+        "nombre": "WorkCentre 5865i"
+      },
+      {
+        "nombre": "VersaLink B7035"
+      },
+      {
+        "nombre": "DocuPrint 135"
+      },
+      {
+        "nombre": "DocuPrint 115 EPS"
+      },
+      {
+        "nombre": "DocuColor 8080 "
+      },
+      {
+        "nombre": "DocuColor 8002 "
+      },
+      {
+        "nombre": "DocuColor 8000AP "
+      },
+      {
+        "nombre": "DocuColor 8000"
+      },
+      {
+        "nombre": "DocuColor 7002 "
+      },
+      {
+        "nombre": "DocuColor 7000AP "
+      },
+      {
+        "nombre": "DocuColor 7000"
+      },
+      {
+        "nombre": "DocuColor 500 Impressions0AP"
+      },
+      {
+        "nombre": "DocuColor 500 Impressions0"
+      },
+      {
+        "nombre": "DocuColor 260"
+      },
+      {
+        "nombre": "DocuColor 252"
+      },
+      {
+        "nombre": "DocuColor 250"
+      },
+      {
+        "nombre": "DocuColor 242"
+      },
+      {
+        "nombre": "DocuColor 240"
+      },
+      {
+        "nombre": "D95A Copier "
+      },
+      {
+        "nombre": "4110"
+      },
+      {
+        "nombre": "4112"
+      },
+      {
+        "nombre": "4127"
+      },
+      {
+        "nombre": "4590"
+      },
+      {
+        "nombre": "700"
+      },
+      {
+        "nombre": "700i "
+      },
+      {
+        "nombre": "WorkCentre 7775"
+      },
+      {
+        "nombre": "Color 1000 Press"
+      },
+      {
+        "nombre": "Color 560 "
+      },
+      {
+        "nombre": "Color 800 Press"
+      },
+      {
+        "nombre": "Color J75 Press"
+      },
+      {
+        "nombre": "D110"
+      },
+      {
+        "nombre": "D125"
+      },
+      {
+        "nombre": "D95"
+      },
+      {
+        "nombre": "Color 550 "
+      },
+      {
+        "nombre": "WorkCentre 7765"
+      },
+      {
+        "nombre": "WorkCentre 7755"
+      },
+      {
+        "nombre": "DocuTech 180 Highlight Color"
+      },
+      {
+        "nombre": "iGen 150 Press"
+      },
+      {
+        "nombre": "iGen3"
+      },
+      {
+        "nombre": "iGen4 Press"
+      },
+      {
+        "nombre": "Nuvera 100 EA"
+      },
+      {
+        "nombre": "Nuvera 120 EA"
+      },
+      {
+        "nombre": "Nuvera 144 EA"
+      },
+      {
+        "nombre": "DocuTech 6180 PowerPlus"
+      },
+      {
+        "nombre": "Nuvera 157 EA"
+      },
+      {
+        "nombre": "WorkCentre 4265XF"
+      },
+      {
+        "nombre": "WorkCentre 7335"
+      },
+      {
+        "nombre": "WorkCentre 7346"
+      },
+      {
+        "nombre": "WorkCentre 7655"
+      },
+      {
+        "nombre": "WorkCentre 7665"
+      },
+      {
+        "nombre": "WorkCentre 7675"
+      },
+      {
+        "nombre": "Nuvera 288 EA"
+      },
+      {
+        "nombre": "Nuvera 314 MX"
+      },
+      {
+        "nombre": "DocuTech 6155"
+      },
+      {
+        "nombre": "DocuTech 6115"
+      },
+      {
+        "nombre": "770 Digital Color Press"
+      },
+      {
+        "nombre": "Color C75 Press"
+      },
+      {
+        "nombre": "DocuPrint 155"
+      },
+      {
+        "nombre": "DocuPrint 180"
+      },
+      {
+        "nombre": "DocuTech 128 Highlight Color"
+      },
+      {
+        "nombre": "DocuTech 155 Highlight Color"
+      },
+      {
+        "nombre": "DocuTech 6135"
+      },
+      {
+        "nombre": "ED95A"
+      },
+      {
+        "nombre": "AltaLink C8170"
+      },
+      {
+        "nombre": "AltaLink C8155"
+      },
+      {
+        "nombre": "AltaLink C8145"
+      },
+      {
+        "nombre": "AltaLink B8170"
+      },
+      {
+        "nombre": "AltaLink B8155"
+      },
+      {
+        "nombre": "AltaLink B8145"
+      },
+      {
+        "nombre": "ED125"
+      },
+      {
+        "nombre": "VersaLink B7030"
+      },
+      {
+        "nombre": "Nuvera 157 MX"
+      },
+      {
+        "nombre": "Versant 280 Press"
+      },
+      {
+        "nombre": "WorkCentre 5875"
+      },
+      {
+        "nombre": "PrimeLink C9070"
+      },
+      {
+        "nombre": "WorkCentre 5865"
+      },
+      {
+        "nombre": "WorkCentre 5855"
+      },
+      {
+        "nombre": "WorkCentre 5845"
+      },
+      {
+        "nombre": "WorkCentre 5790"
+      },
+      {
+        "nombre": "WorkCentre 5775"
+      },
+      {
+        "nombre": "WorkCentre 5765"
+      },
+      {
+        "nombre": "WorkCentre 5755A"
+      },
+      {
+        "nombre": "WorkCentre 5755 F"
+      },
+      {
+        "nombre": "WorkCentre 5755"
+      },
+      {
+        "nombre": "WorkCentre 5745A"
+      },
+      {
+        "nombre": "WorkCentre 5745"
+      },
+      {
+        "nombre": "WorkCentre 5740A"
+      },
+      {
+        "nombre": "WorkCentre 5740"
+      },
+      {
+        "nombre": "WorkCentre 5735A"
+      },
+      {
+        "nombre": "WorkCentre 5735"
+      },
+      {
+        "nombre": "VersaLink C7020"
+      },
+      {
+        "nombre": "VersaLink C7025"
+      },
+      {
+        "nombre": "VersaLink C7030"
+      },
+      {
+        "nombre": "Versant 180 Press"
+      },
+      {
+        "nombre": "Versant 180 Press with Performance Package"
+      },
+      {
+        "nombre": "Versant 2100 Press"
+      },
+      {
+        "nombre": "WorkCentre 5875i"
+      },
+      {
+        "nombre": "Versant 3100 Press"
+      },
+      {
+        "nombre": "Wide Format IJP 2000"
+      },
+      {
+        "nombre": "EC8056"
+      },
+      {
+        "nombre": "EC8036"
+      },
+      {
+        "nombre": "WorkCentre 5325"
+      },
+      {
+        "nombre": "WorkCentre 5330"
+      },
+      {
+        "nombre": "WorkCentre 5335"
+      },
+      {
+        "nombre": "Versant 80 Press"
+      },
+      {
+        "nombre": "WorkCentre 5890"
+      },
+      {
+        "nombre": "WorkCentre 5890i"
+      },
+      {
+        "nombre": "WorkCentre 5945"
+      },
+      {
+        "nombre": "WorkCentre 7556 F"
+      },
+      {
+        "nombre": "WorkCentre 7830"
+      },
+      {
+        "nombre": "WorkCentre 7830i"
+      },
+      {
+        "nombre": "WorkCentre 7835"
+      },
+      {
+        "nombre": "WorkCentre 7835i"
+      },
+      {
+        "nombre": "WorkCentre 7845"
+      },
+      {
+        "nombre": "WorkCentre 7556"
+      },
+      {
+        "nombre": "WorkCentre 7845i"
+      },
+      {
+        "nombre": "WorkCentre 7855i"
+      },
+      {
+        "nombre": "WorkCentre 7970"
+      },
+      {
+        "nombre": "WorkCentre 7970i"
+      },
+      {
+        "nombre": "WorkCentre EC7836"
+      },
+      {
+        "nombre": "WorkCentre EC7856"
+      },
+      {
+        "nombre": "VersaLink C8000W"
+      },
+      {
+        "nombre": "WorkCentre 7855"
+      },
+      {
+        "nombre": "Versant 4100 Press"
+      },
+      {
+        "nombre": "WorkCentre 7545"
+      },
+      {
+        "nombre": "WorkCentre 7535"
+      },
+      {
+        "nombre": "WorkCentre 5945i"
+      },
+      {
+        "nombre": "WorkCentre 5955"
+      },
+      {
+        "nombre": "WorkCentre 5955i"
+      },
+      {
+        "nombre": "WorkCentre 7125"
+      },
+      {
+        "nombre": "WorkCentre 7220"
+      },
+      {
+        "nombre": "WorkCentre 7220i"
+      },
+      {
+        "nombre": "WorkCentre 7535 F"
+      },
+      {
+        "nombre": "WorkCentre 7220iT"
+      },
+      {
+        "nombre": "WorkCentre 7225"
+      },
+      {
+        "nombre": "WorkCentre 7225i"
+      },
+      {
+        "nombre": "WorkCentre 7225iT"
+      },
+      {
+        "nombre": "WorkCentre 7225T"
+      },
+      {
+        "nombre": "WorkCentre 7525"
+      },
+      {
+        "nombre": "WorkCentre 7530"
+      },
+      {
+        "nombre": "WorkCentre 7220T"
+      },
+      {
+        "nombre": "WorkCentre 7345"
+      }
+    ]
+  }
+]

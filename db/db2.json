@@ -1,0 +1,44 @@
+[
+  {
+    "marca": "Canon",
+    "aliases": ["Canon", "Cano", "Ca", "Can"],
+    "modelos": [
+      {
+        "nombre": "ImageRunner 3300",
+        "aliases": ["IR 3300", "Canon 3300"]
+      },
+      {
+        "nombre": "ImageRunner 2200",
+        "aliases": ["IR 2200", "Canon 2200"]
+      }
+    ]
+  },
+  {
+    "marca": "Xerox",
+    "aliases": ["Xerox", "Xer", "Xe"],
+    "modelos": [
+      {
+        "nombre": "WorkCentre 6515",
+        "aliases": ["Xerox 6515", "WC 6515", "WC6515"]
+      },
+      {
+        "nombre": "WorkCentre 3225",
+        "aliases": ["Xerox 3225", "WC 3225"]
+      }
+    ]
+  },
+  {
+    "marca": "HP",
+    "aliases": ["HP"],
+    "modelos": [
+      {
+        "nombre": "LaserJet Pro MFP M227fdw",
+        "aliases": ["HP M227fdw", "LaserJet M227fdw"]
+      },
+      {
+        "nombre": "LaserJet Pro MFP M404dn",
+        "aliases": ["HP M404dn", "LaserJet M404dn"]
+      }
+    ]
+  }
+]

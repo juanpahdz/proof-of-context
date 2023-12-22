@@ -1,0 +1,15 @@
+[
+  { "brand": "Canon", "aliases": ["Canon", "Cano", "Ca", "Can"] },
+  { "brand": "Ricoh", "aliases": ["Ricoh", "Ric", "Rh"] },
+  { "brand": "Savin", "aliases": ["Savin", "Sav", "Sv"] },
+  { "brand": "Kyocera", "aliases": ["Kyocera", "Kyo", "Ky"] },
+  { "brand": "Lanier", "aliases": ["Lanier", "Lan", "Lr"] },
+  { "brand": "Konica Minolta", "aliases": ["Konica Minolta", "KM", "Km"] },
+  { "brand": "HP", "aliases": ["Hp", "Hewlett Packard", "Hewlett Pk", "H-P"] },
+  { "brand": "Sharp", "aliases": ["Sharp", "Shp", "Sh"] },
+  { "brand": "Copystar", "aliases": ["Copystar", "Cop", "Cp"] },
+  { "brand": "Kip", "aliases": ["Kip", "Kp"] },
+  { "brand": "Oce", "aliases": ["Oce", "Oc"] },
+  { "brand": "Xerox", "aliases": ["Xerox", "Xer", "Xe"] },
+  { "brand": "Toshiba", "aliases": ["Toshiba", "Tosh", "Tb"] }
+]
